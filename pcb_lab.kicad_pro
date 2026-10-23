@@ -659,6 +659,12 @@
           "label": "Assembly",
           "name": "Assembly",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DigiKey Part #",
+          "name": "DigiKey Part #",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -666,7 +672,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "${EXCLUDE_FROM_BOARD}"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -740,7 +746,7 @@
         "uuid": "4b3900cd-4caa-4607-9ae2-b7ba504fedd7"
       }
     ],
-    "used_designators": "J1,U1-3,F1,D1,Q1,#PWR1-36,C1-24,R1-16,L1-3,#FLG1-5",
+    "used_designators": "TP1-17,F1,S1,Q1,J1-4,N1,U1-7,C1-34,SW1-5,Y1-2,D1-4,#PWR1-69,R1-25,L1-3,#FLG1-5",
     "variants": []
   },
   "sheets": [

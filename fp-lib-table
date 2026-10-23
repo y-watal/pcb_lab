@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "TPS564252DRLR") (type "KiCad") (uri "${KIPRJMOD}/library/TPS564252DRLR/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "SRR1280") (type "KiCad") (uri "${KIPRJMOD}/library/Inductor_Bourns-SRR1280/Inductor_Bourns-SRR1280.pretty") (options "") (descr ""))
+	(lib (name "SWT0210-045026GSA") (type "KiCad") (uri "${KIPRJMOD}/library/SWT0210-045026GSA/SWT0210-045026GSA.pretty") (options "") (descr ""))
 )
