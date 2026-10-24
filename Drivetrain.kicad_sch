@@ -9782,6 +9782,72 @@
 				)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 161.29 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 161.29 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" ""
+			(at 161.29 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" ""
+			(at 161.29 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 161.29 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" ""
+			(at 161.29 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8e2c2bde-b174-4cd9-b453-05ab636c1bb3")
 		)
@@ -12565,171 +12631,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Interface_CAN_LIN:SN65HVD230")
-		(at 308.61 53.34 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "64d4eb18-918a-4521-803f-2f7db68de4c9")
-		(property "Reference" "U11"
-			(at 315.3253 43.688 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SN65HVD230"
-			(at 309.9913 46.228 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 308.61 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf"
-			(at 306.07 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8"
-			(at 308.61 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 308.61 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" ""
-			(at 308.61 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" ""
-			(at 308.61 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Assembly" ""
-			(at 308.61 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 308.61 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Category" ""
-			(at 308.61 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "82a09632-8b85-4176-8834-1c71caecbe3c")
-		)
-		(pin "6"
-			(uuid "7f159f9f-1229-4073-8764-636957e2c769")
-		)
-		(pin "4"
-			(uuid "2f1942cf-7fc5-42e0-a912-c9069c48037a")
-		)
-		(pin "8"
-			(uuid "aeef6e7d-5cea-4ea7-a3f0-43ffa7733aed")
-		)
-		(pin "5"
-			(uuid "8050688b-322b-4efd-8ef9-128c5474b00f")
-		)
-		(pin "3"
-			(uuid "763d46ad-0b1f-4b4c-81b5-dcfd9b4e48e5")
-		)
-		(pin "2"
-			(uuid "9a59ec30-15d4-46e2-9cbf-4f5e5cbe5c3e")
-		)
-		(pin "7"
-			(uuid "38036095-24c5-4fe9-9723-16cd9c82d608")
-		)
-		(instances
-			(project "pcb_lab"
-				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
-					(reference "U11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 256.54 90.17 90)
 		(unit 1)
@@ -14118,6 +14019,171 @@
 		)
 	)
 	(symbol
+		(lib_id "Interface_CAN_LIN:SN65HVD230")
+		(at 308.61 53.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "83166e2c-44ff-4258-ba3a-8775fda99e5a")
+		(property "Reference" "U7"
+			(at 315.3253 43.688 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SN65HVD230DR"
+			(at 309.9913 46.228 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 308.61 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf"
+			(at 306.07 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8"
+			(at 308.61 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 308.61 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SN65HVD230DR"
+			(at 308.61 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" "JLCPCB"
+			(at 308.61 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" "SMT"
+			(at 308.61 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C12084"
+			(at 308.61 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" "Extended"
+			(at 308.61 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b63332d4-7f2a-4a91-8ed3-1ba8f1ba3737")
+		)
+		(pin "6"
+			(uuid "aeb835af-6691-43e1-b217-15a4289f6293")
+		)
+		(pin "4"
+			(uuid "84d5fc68-dee3-488a-abe1-dc5e52bdd0f2")
+		)
+		(pin "8"
+			(uuid "38d3121b-be14-4dd8-b005-1a2b920f4ac1")
+		)
+		(pin "5"
+			(uuid "823350b6-374e-4bad-98a8-6f075a89a531")
+		)
+		(pin "3"
+			(uuid "2e5fe953-8ef9-4f9c-97d4-e51ca797b116")
+		)
+		(pin "2"
+			(uuid "6411f71c-7b0c-4a27-92ac-2e853cb6ce8a")
+		)
+		(pin "7"
+			(uuid "e70a327e-c8df-460b-82a2-b099e9cf74cd")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 308.61 166.37 0)
 		(unit 1)
@@ -14415,171 +14481,6 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
 					(reference "R34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Interface_CAN_LIN:SN65HVD230")
-		(at 308.61 151.13 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "87708500-15b5-443f-bbda-91afaa9b1f61")
-		(property "Reference" "U12"
-			(at 315.3253 141.478 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SN65HVD230"
-			(at 309.9913 144.018 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 308.61 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf"
-			(at 306.07 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8"
-			(at 308.61 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 308.61 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" ""
-			(at 308.61 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" ""
-			(at 308.61 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Assembly" ""
-			(at 308.61 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 308.61 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Category" ""
-			(at 308.61 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3f6edf54-889b-4fc8-a1ed-1532685229b6")
-		)
-		(pin "6"
-			(uuid "69937e40-48a4-48e0-bf20-c55161ac73b7")
-		)
-		(pin "4"
-			(uuid "70826afe-a6ce-4057-ad87-6a512fc92ade")
-		)
-		(pin "8"
-			(uuid "cd47eddc-f3a8-4b54-92c6-51768c001774")
-		)
-		(pin "5"
-			(uuid "c2339e10-1301-442b-9002-25155b47cb77")
-		)
-		(pin "3"
-			(uuid "0956bbad-4142-430f-b859-d3a0b156dbf7")
-		)
-		(pin "2"
-			(uuid "f0d68030-ce8e-4506-8f0e-91e6a8303078")
-		)
-		(pin "7"
-			(uuid "ab04d2e9-55b4-4a63-af7d-d0cb0438faa4")
-		)
-		(instances
-			(project "pcb_lab"
-				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
-					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -16083,6 +15984,171 @@
 		)
 	)
 	(symbol
+		(lib_id "Interface_CAN_LIN:SN65HVD230")
+		(at 308.61 151.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "af909b93-f4ba-4bc1-b089-90e995cacfe8")
+		(property "Reference" "U12"
+			(at 315.3253 141.478 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SN65HVD230DR"
+			(at 309.9913 144.018 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 308.61 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf"
+			(at 306.07 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8"
+			(at 308.61 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 308.61 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SN65HVD230DR"
+			(at 308.61 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" "JLCPCB"
+			(at 308.61 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" "SMT"
+			(at 308.61 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C12084"
+			(at 308.61 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" "Extended"
+			(at 308.61 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "12369889-b443-4f8d-9dd2-b6c211ef4a52")
+		)
+		(pin "6"
+			(uuid "4810a4cc-4117-4c89-94d9-28efca5ff2e4")
+		)
+		(pin "4"
+			(uuid "54321b91-6cb0-4694-892e-7bf5f19eb464")
+		)
+		(pin "8"
+			(uuid "1b97f1bd-5f23-45e3-9772-f67bdd5f4fd0")
+		)
+		(pin "5"
+			(uuid "96c0bef9-f3c6-45d0-ad41-007b15f41f04")
+		)
+		(pin "3"
+			(uuid "ff918a2d-97eb-4e5d-b662-2adb3e86cb7f")
+		)
+		(pin "2"
+			(uuid "4b23b914-d7d0-4d8d-bf89-064bef65dbdb")
+		)
+		(pin "7"
+			(uuid "b3822dbb-a636-4a83-977c-4ef59124fff4")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "U12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+BATT")
 		(at 120.65 34.29 0)
 		(unit 1)
@@ -16368,6 +16434,72 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 46.99 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 46.99 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 46.99 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" ""
+			(at 46.99 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" ""
+			(at 46.99 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 46.99 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" ""
 			(at 46.99 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -18974,6 +19106,72 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 96KB RAM, 84 MHz, 1.7-3.6V, 50 GPIO, LQFP64"
+			(at 120.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 120.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 120.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" ""
+			(at 120.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" ""
+			(at 120.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 120.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" ""
 			(at 120.65 109.22 0)
 			(hide yes)
 			(show_name no)
