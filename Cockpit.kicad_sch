@@ -6476,16 +6476,6 @@
 		)
 		(uuid "5369f85f-e5df-46ad-87c8-2da49b413ed5")
 	)
-	(label "CANL_B"
-		(at 337.82 222.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "55505a18-a4a1-46ca-b9f2-57c60d2b625c")
-	)
 	(label "PI_SPI_SCLK"
 		(at 59.69 95.25 0)
 		(effects
@@ -6656,16 +6646,6 @@
 		)
 		(uuid "c96b10ff-8020-4ebd-8f6d-84f6eec951ea")
 	)
-	(label "CANH_B"
-		(at 337.82 219.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cedfeabc-23ea-47e6-b11e-f4d6f03adb69")
-	)
 	(label "OSC_PI_B2"
 		(at 207.01 194.31 0)
 		(effects
@@ -6780,6 +6760,30 @@
 			)
 		)
 	)
+	(global_label "CANH_B"
+		(shape input)
+		(at 337.82 219.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0f8838b7-beb3-4a32-b41f-c1ae4781a3ce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 327.5776 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "CANH_A"
 		(shape bidirectional)
 		(at 351.79 76.2 0)
@@ -6801,6 +6805,78 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "CANL_B"
+		(shape input)
+		(at 337.82 222.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4a3e7dec-31ec-4c17-a1c5-e4834e942e80")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 327.88 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "CANH_A"
+		(shape input)
+		(at 336.55 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4f52b40b-6493-4f6d-ad01-9b2842aa9e64")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 326.489 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "CANL_A"
+		(shape input)
+		(at 336.55 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "656a64fd-9b06-4950-b8c1-f5c740d51bdb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 326.7914 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)

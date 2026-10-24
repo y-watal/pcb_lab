@@ -665,6 +665,12 @@
           "label": "DigiKey Part #",
           "name": "DigiKey Part #",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -746,7 +752,7 @@
         "uuid": "4b3900cd-4caa-4607-9ae2-b7ba504fedd7"
       }
     ],
-    "used_designators": "TP1-17,F1,S1,Q1,J1-4,N1,U1-7,C1-34,SW1-5,Y1-2,D1-4,#PWR1-69,R1-25,L1-3,#FLG1-5",
+    "used_designators": "TP1-19,F1,N1,S1,C1-55,Q1,J1-9,U1-12,SW1-10,Y1-4,D1-10,#PWR1-109,R1-38,#FLG1-5,L1-3,FB1",
     "variants": []
   },
   "sheets": [
