@@ -5242,7 +5242,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WSL2512R0500FEA:WSL2512R0500FEA"
+		(symbol "WSL2512R0400FEA:WSL2512R0400FEA"
 			(body_styles demorgan)
 			(pin_names
 				(offset 0.254)
@@ -5262,7 +5262,7 @@
 					)
 				)
 			)
-			(property "Value" "WSL2512R0500FEA"
+			(property "Value" "WSL2512R0400FEA"
 				(at 6.35 -3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5317,7 +5317,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "WSL2512R0500FEA"
+			(property "ki_keywords" "WSL2512R0400FEA"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5339,7 +5339,7 @@
 					)
 				)
 			)
-			(symbol "WSL2512R0500FEA_1_1"
+			(symbol "WSL2512R0400FEA_1_1"
 				(polyline
 					(pts
 						(xy 2.54 0) (xy 3.175 1.27)
@@ -5461,7 +5461,7 @@
 					)
 				)
 			)
-			(symbol "WSL2512R0500FEA_1_2"
+			(symbol "WSL2512R0400FEA_1_2"
 				(polyline
 					(pts
 						(xy -1.27 8.255) (xy 1.27 9.525)
@@ -5575,145 +5575,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "power:+6V"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "+6V"
-				(at 0 3.556 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+6V\""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "+6V_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+6V_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6079,7 +5940,7 @@
 		)
 		(uuid "43656cb5-0f76-4f54-90f8-5a1985239a07")
 	)
-	(text "I_mA = counts * 0.806 - offset\nSample rate @ >=10KHz"
+	(text "I_mA = (counts − offset_counts) * 1.007\nSample rate @ >=10KHz"
 		(exclude_from_sim no)
 		(at 118.364 220.726 0)
 		(effects
@@ -11381,8 +11242,9 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+6V")
-		(at 111.76 185.42 0)
+		(lib_id "WSL2512R0400FEA:WSL2512R0400FEA")
+		(at 111.76 204.47 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11390,10 +11252,55 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "30722918-1d81-4ec0-8fea-b8413b03605c")
-		(property "Reference" "#PWR0168"
-			(at 111.76 189.23 0)
+		(uuid "3062817a-9898-474e-b334-61a6eed80adc")
+		(property "Reference" "R52"
+			(at 109.22 196.8499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "40m"
+			(at 109.22 199.3899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "WSL2512R0400FEA:RES_2512_WSL-M"
+			(at 111.76 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?30100"
+			(at 111.76 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11403,18 +11310,8 @@
 				)
 			)
 		)
-		(property "Value" "+6V"
-			(at 111.76 180.34 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
-			(at 111.76 185.42 0)
+		(property "Manufacturer" "Vishay Intertech"
+			(at 111.76 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11424,8 +11321,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 111.76 185.42 0)
+		(property "Manufacturer Part Number" "WSL2512R0400FEA"
+			(at 111.76 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11435,8 +11332,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+6V\""
-			(at 111.76 185.42 0)
+		(property "Source" ""
+			(at 111.76 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11445,14 +11342,50 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Assembly" ""
+			(at 111.76 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C844291"
+			(at 111.76 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" "Resistors/Chip Resistor - Surface Mount"
+			(at 111.76 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1df11ac4-46ef-4156-85e3-9874864b75ae")
 		)
 		(pin "1"
-			(uuid "8999c3a3-e78f-4968-961f-6bc816a3fa47")
+			(uuid "d9aafe3e-2c7b-4bfd-ae0b-20fc2f1fd0d4")
 		)
 		(instances
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
-					(reference "#PWR0168")
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -19222,156 +19155,6 @@
 		)
 	)
 	(symbol
-		(lib_id "WSL2512R0500FEA:WSL2512R0500FEA")
-		(at 111.76 204.47 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c50db204-4c6b-4ace-9831-515c9e09c3f4")
-		(property "Reference" "R52"
-			(at 109.22 196.8499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "50m"
-			(at 109.22 199.3899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "WSL2512R0500FEA:RES_2512_WSL-M"
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?30100"
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay Intertech"
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "WSL2512R0500FEA"
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" ""
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Assembly" ""
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" "C413486"
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Category" "Resistors/Chip Resistor - Surface Mount"
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9332a6ee-fbc2-43d8-ad42-4225808192b0")
-		)
-		(pin "1"
-			(uuid "fbab73d1-9759-4991-ad1b-8fdc1d8020d9")
-		)
-		(instances
-			(project "pcb_lab"
-				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
-					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 55.88 147.32 0)
 		(unit 1)
@@ -21067,6 +20850,83 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
 					(reference "#PWR0155")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 111.76 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e52651d6-ea97-4265-bba3-c130ec87601c")
+		(property "Reference" "#PWR0234"
+			(at 111.76 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "8V"
+			(at 111.76 181.356 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 111.76 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 111.76 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "577ceb1e-038d-4340-bdbc-4e0662fd1538")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)

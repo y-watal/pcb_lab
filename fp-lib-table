@@ -5,6 +5,6 @@
 	(lib (name "SWT0210-045026GSA") (type "KiCad") (uri "${KIPRJMOD}/library/SWT0210-045026GSA/SWT0210-045026GSA.pretty") (options "") (descr ""))
 	(lib (name "39301039") (type "KiCad") (uri "${KIPRJMOD}/library/molex_39301039/footprints.pretty") (options "") (descr ""))
 	(lib (name "INA180A1IDBVT") (type "KiCad") (uri "${KIPRJMOD}/library/INA180A1IDBVT/KiCADv6/footprints.pretty") (options "") (descr ""))
-	(lib (name "WSL2512R0500FEA") (type "KiCad") (uri "${KIPRJMOD}/library/WSL2512R0500FEA/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "EEE-FK1C221P") (type "KiCad") (uri "${KIPRJMOD}/library/EEE-FK1C221P/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "WSL2512R0400FEA") (type "KiCad") (uri "${KIPRJMOD}/library/WSL2512R0400FEA/KiCADv6/footprints.pretty") (options "") (descr ""))
 )
