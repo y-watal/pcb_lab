@@ -7,4 +7,5 @@
 	(lib (name "INA180A1IDBVT") (type "KiCad") (uri "${KIPRJMOD}/library/INA180A1IDBVT/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "EEE-FK1C221P") (type "KiCad") (uri "${KIPRJMOD}/library/EEE-FK1C221P/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "WSL2512R0400FEA") (type "KiCad") (uri "${KIPRJMOD}/library/WSL2512R0400FEA/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "CRCW06031K00FKEA") (type "KiCad") (uri "${KIPRJMOD}/library/CRCW06031K00FKEA/KiCADv6/footprints.pretty") (options "") (descr ""))
 )
