@@ -534,7 +534,7 @@
   "schematic": {
     "annotate_start_num": 0,
     "annotation": {
-      "method": 0,
+      "method": 1,
       "sort_order": 0
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
@@ -665,6 +665,12 @@
           "label": "DigiKey Part #",
           "name": "DigiKey Part #",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -746,7 +752,7 @@
         "uuid": "4b3900cd-4caa-4607-9ae2-b7ba504fedd7"
       }
     ],
-    "used_designators": "TP1-17,F1,S1,Q1,J1-4,N1,U1-7,U11,U20,C1-34,SW1-5,Y1-2,D1-4,#PWR1-69,R1-25,L1-3,#FLG1-5",
+    "used_designators": "TP1-17,TP201-206,TP301-312,TP401,TP501-506,F1,F201,N1,S1,S301,C1-34,C45-54,C201-232,C301-310,C401-424,C501-530,Q1,Q201,J1-4,J6-7,J201,J301-303,J401-404,J501-507,U1-7,U9-11,U20,U201-204,U301-304,U401-406,U501-508,SW1-8,SW301-304,SW401-405,SW501-505,Y1-4,Y301-302,Y401-402,Y501-502,D1-4,D201,D301-303,D401-405,D501-513,#PWR1-69,#PWR82-99,#PWR201-247,#PWR301-325,#PWR401-454,#PWR501-575,R1-25,R27-32,R201-221,R301-309,R401-415,R501-517,#FLG1-5,#FLG201-206,L1-3,L201-204,FB401,FB501,W301",
     "variants": []
   },
   "sheets": [
