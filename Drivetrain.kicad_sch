@@ -7351,7 +7351,17 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 139.7) (xy 166.37 139.7)
+			(xy 176.53 115.57) (xy 179.07 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35159366-2aa3-450e-bbee-559e603cb82d")
+	)
+	(wire
+		(pts
+			(xy 179.07 139.7) (xy 181.61 139.7)
 		)
 		(stroke
 			(width 0)
@@ -7528,6 +7538,16 @@
 			(type default)
 		)
 		(uuid "43731d63-077d-4d40-8527-bac29ac13f6c")
+	)
+	(wire
+		(pts
+			(xy 168.91 115.57) (xy 161.29 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45adc34f-d0a4-4abe-95dd-f03ad6a05a92")
 	)
 	(wire
 		(pts
@@ -8251,6 +8271,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 110.49) (xy 161.29 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "775b6c80-b273-4ccb-825e-04be77837359")
+	)
+	(wire
+		(pts
 			(xy 50.8 273.05) (xy 50.8 276.86)
 		)
 		(stroke
@@ -8691,7 +8721,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 139.7) (xy 176.53 139.7)
+			(xy 189.23 139.7) (xy 191.77 139.7)
 		)
 		(stroke
 			(width 0)
@@ -8991,7 +9021,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 139.7) (xy 156.21 139.7)
+			(xy 138.43 139.7) (xy 171.45 139.7)
 		)
 		(stroke
 			(width 0)
@@ -9611,6 +9641,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 110.49) (xy 179.07 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1376658-81ab-416e-9ff5-15325a4aae24")
+	)
+	(wire
+		(pts
 			(xy 219.71 228.6) (xy 222.25 228.6)
 		)
 		(stroke
@@ -10199,6 +10239,16 @@
 		)
 		(uuid "806ceebf-7fa6-4d9e-8ea3-91bce2c78172")
 	)
+	(label "DT_ENA"
+		(at 161.29 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "829972c6-2121-4931-9433-1553ef4017c1")
+	)
 	(label "DT_TP_CAN_TX_A"
 		(at 86.36 121.92 0)
 		(effects
@@ -10428,6 +10478,16 @@
 			(justify left bottom)
 		)
 		(uuid "acbfe15a-3cc1-41ef-9f88-e93d20637c9a")
+	)
+	(label "DT_ENB"
+		(at 161.29 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "adaab203-1ac9-46ad-b16c-d3857bbdc111")
 	)
 	(label "DT_ENA"
 		(at 146.05 132.08 180)
@@ -11181,6 +11241,84 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
 					(reference "#PWR0544")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 115.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0419cb12-6126-4089-8d9c-309991fa57eb")
+		(property "Reference" "#PWR0578"
+			(at 179.07 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 179.07 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "30820665-a5fa-46f9-a20f-44c515627f67")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "#PWR0578")
 					(unit 1)
 				)
 			)
@@ -12479,6 +12617,152 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 172.72 110.49 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0dcb5889-5783-4180-9ad7-20031880f663")
+		(property "Reference" "R524"
+			(at 172.72 104.14 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 172.72 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 172.72 112.268 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 172.72 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CRCW060310K0FKEA"
+			(at 172.72 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C844918"
+			(at 172.72 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" "Extended"
+			(at 172.72 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" "Lab stock"
+			(at 172.72 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" "Hand-solder"
+			(at 172.72 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9a3d4aa0-9c4c-4d77-a179-9e18d66d0568")
+		)
+		(pin "2"
+			(uuid "cf4a33e8-c912-40f2-816a-c2e1582a677a")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "R524")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 152.4 148.59 90)
 		(unit 1)
 		(body_style 1)
@@ -12849,7 +13133,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 170.18 139.7 180)
+		(at 185.42 139.7 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12860,7 +13144,7 @@
 		(fields_autoplaced yes)
 		(uuid "12f01d1d-a801-4b75-9cd5-8f7fa7c453d9")
 		(property "Reference" "D509"
-			(at 171.7675 132.08 0)
+			(at 187.0075 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12870,7 +13154,7 @@
 			)
 		)
 		(property "Value" "LED_YELLOW"
-			(at 171.7675 134.62 0)
+			(at 187.0075 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12880,7 +13164,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12891,7 +13175,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12902,7 +13186,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12913,7 +13197,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12924,7 +13208,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12935,7 +13219,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "151031YS06000"
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12946,7 +13230,7 @@
 			)
 		)
 		(property "LCSC Part #" ""
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12957,7 +13241,7 @@
 			)
 		)
 		(property "JLCPCB Category" ""
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12968,7 +13252,7 @@
 			)
 		)
 		(property "Source" "Lab stock"
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12979,7 +13263,7 @@
 			)
 		)
 		(property "Assembly" "Hand-solder"
-			(at 170.18 139.7 0)
+			(at 185.42 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14739,7 +15023,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 176.53 139.7 0)
+		(at 191.77 139.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14750,7 +15034,7 @@
 		(fields_autoplaced yes)
 		(uuid "2face4b6-16b8-42f4-bd00-4713d69b2ebd")
 		(property "Reference" "#PWR0541"
-			(at 176.53 146.05 0)
+			(at 191.77 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14761,7 +15045,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 176.53 144.78 0)
+			(at 191.77 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14771,7 +15055,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 139.7 0)
+			(at 191.77 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14782,7 +15066,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 139.7 0)
+			(at 191.77 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14793,7 +15077,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 139.7 0)
+			(at 191.77 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15047,7 +15331,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 160.02 139.7 90)
+		(at 175.26 139.7 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15058,7 +15342,7 @@
 		(fields_autoplaced yes)
 		(uuid "32e6880e-01f3-4feb-aeee-df16f0d417bf")
 		(property "Reference" "R507"
-			(at 160.02 133.35 90)
+			(at 175.26 133.35 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15068,7 +15352,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 160.02 135.89 90)
+			(at 175.26 135.89 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15078,7 +15362,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 160.02 141.478 90)
+			(at 175.26 141.478 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15089,7 +15373,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 139.7 0)
+			(at 175.26 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15100,7 +15384,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 160.02 139.7 0)
+			(at 175.26 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15111,7 +15395,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay Dale"
-			(at 160.02 139.7 0)
+			(at 175.26 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15122,7 +15406,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "CRCW0603220RFKEA"
-			(at 160.02 139.7 0)
+			(at 175.26 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15133,7 +15417,7 @@
 			)
 		)
 		(property "Source" "DigiKey"
-			(at 160.02 139.7 0)
+			(at 175.26 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15144,7 +15428,7 @@
 			)
 		)
 		(property "Assembly" "Hand-solder"
-			(at 160.02 139.7 0)
+			(at 175.26 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15155,7 +15439,7 @@
 			)
 		)
 		(property "LCSC Part #" "C844757"
-			(at 160.02 139.7 0)
+			(at 175.26 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15166,7 +15450,7 @@
 			)
 		)
 		(property "JLCPCB Category" "Extended"
-			(at 160.02 139.7 0)
+			(at 175.26 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23389,6 +23673,151 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 172.72 115.57 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "95a6d1c3-6118-42c2-b698-cc9f1c9e32c2")
+		(property "Reference" "R525"
+			(at 172.72 118.618 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 172.72 121.158 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 172.72 113.792 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay Dale"
+			(at 172.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CRCW060310K0FKEA"
+			(at 172.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C844918"
+			(at 172.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" "Extended"
+			(at 172.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" "Lab stock"
+			(at 172.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" "Hand-solder"
+			(at 172.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5ea862ff-2eda-4b99-b288-a6e26ab2bae8")
+		)
+		(pin "2"
+			(uuid "a1711ebf-2f33-463c-9875-e00e62d0da8c")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "R525")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 58.42 210.82 0)
 		(unit 1)
@@ -28703,6 +29132,84 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
 					(reference "SW502")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 110.49 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e8b0ca45-f976-470c-97c1-853fcd91d4b2")
+		(property "Reference" "#PWR0579"
+			(at 179.07 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 179.07 105.41 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dc88fb0f-d8aa-4a22-a40b-e4b6fb0955b0")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "#PWR0579")
 					(unit 1)
 				)
 			)
