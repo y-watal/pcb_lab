@@ -6003,10 +6003,6 @@
 		(uuid "ff585138-8d2c-41ae-a849-b60ba159304b")
 	)
 	(no_connect
-		(at 138.43 93.98)
-		(uuid "065034d6-86a8-4c31-ae66-dce923225261")
-	)
-	(no_connect
 		(at 270.51 71.12)
 		(uuid "169d93f5-a43f-496c-89d1-662abb3241eb")
 	)
@@ -6017,6 +6013,10 @@
 	(no_connect
 		(at 102.87 116.84)
 		(uuid "2523dc92-76a3-4cd6-9038-c469dfd9d4b6")
+	)
+	(no_connect
+		(at 138.43 93.98)
+		(uuid "2a28056b-185f-4dc6-9025-d89c56f33cb8")
 	)
 	(no_connect
 		(at 270.51 154.94)
@@ -9265,16 +9265,6 @@
 			(justify left bottom)
 		)
 		(uuid "2de487ab-cb8e-4d6c-8eb1-855c40098e1b")
-	)
-	(label "DT_CAN_A_INT"
-		(at 152.4 93.98 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2ec6134d-2de9-4f21-bbb2-56ffee3ac452")
 	)
 	(label "DT_OSC_OUT"
 		(at 76.2 41.91 180)
