@@ -5721,7 +5721,7 @@
 		(uuid "0317d16f-d051-49a7-b1b9-7a1965dead7f")
 	)
 	(junction
-		(at 99.06 78.74)
+		(at 86.36 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0414045f-4fb2-41b6-96a4-b71c0915b212")
@@ -5787,6 +5787,12 @@
 		(uuid "674261ae-286c-4b8e-9114-f89aa18ced61")
 	)
 	(junction
+		(at 60.96 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "67a0ec33-8cfa-42d8-91c1-cdae496bc297")
+	)
+	(junction
 		(at 120.65 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5805,7 +5811,7 @@
 		(uuid "73fa1dd2-b054-44a7-998c-fd0eb4ba181d")
 	)
 	(junction
-		(at 88.9 78.74)
+		(at 76.2 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "765f8f8c-47bb-44cd-92ee-42dd44f8c831")
@@ -6029,14 +6035,6 @@
 		(uuid "4ad7f2d7-3361-4b50-ac8d-30cc8e57c1d5")
 	)
 	(no_connect
-		(at 102.87 86.36)
-		(uuid "4e4c0c93-1e8d-46ab-8657-4ed78c70f709")
-	)
-	(no_connect
-		(at 102.87 83.82)
-		(uuid "4ffa9cef-17b7-4088-9073-665f605a173b")
-	)
-	(no_connect
 		(at 138.43 96.52)
 		(uuid "6c652ff9-a66e-4a23-9abb-585153be53f9")
 	)
@@ -6250,7 +6248,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 86.36) (xy 99.06 87.63)
+			(xy 86.36 86.36) (xy 86.36 87.63)
 		)
 		(stroke
 			(width 0)
@@ -6870,6 +6868,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 86.36) (xy 102.87 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ca577e2-ca13-43f2-a929-472e57109046")
+	)
+	(wire
+		(pts
 			(xy 57.15 99.06) (xy 102.87 99.06)
 		)
 		(stroke
@@ -6980,7 +6988,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 78.74) (xy 99.06 78.74)
+			(xy 76.2 78.74) (xy 86.36 78.74)
 		)
 		(stroke
 			(width 0)
@@ -7260,7 +7268,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 78.74) (xy 102.87 78.74)
+			(xy 86.36 78.74) (xy 102.87 78.74)
 		)
 		(stroke
 			(width 0)
@@ -7290,7 +7298,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 86.36) (xy 88.9 87.63)
+			(xy 76.2 86.36) (xy 76.2 87.63)
 		)
 		(stroke
 			(width 0)
@@ -7630,6 +7638,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 41.91) (xy 76.2 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "781b4c8a-e7cb-4e62-afc3-27f00567bc4f")
+	)
+	(wire
+		(pts
 			(xy 151.13 114.3) (xy 138.43 114.3)
 		)
 		(stroke
@@ -7850,6 +7868,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 41.91) (xy 57.15 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ad98ae1-52b9-45fc-874f-658bbe08df4a")
+	)
+	(wire
+		(pts
 			(xy 191.77 220.98) (xy 199.39 220.98)
 		)
 		(stroke
@@ -7957,6 +7985,16 @@
 			(type default)
 		)
 		(uuid "91d483f1-7ce0-426d-b91a-72ff0afad943")
+	)
+	(wire
+		(pts
+			(xy 60.96 46.99) (xy 60.96 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91f38cd5-1c71-45ac-aed1-190475331f37")
 	)
 	(wire
 		(pts
@@ -8410,7 +8448,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 78.74) (xy 88.9 78.74)
+			(xy 71.12 78.74) (xy 76.2 78.74)
 		)
 		(stroke
 			(width 0)
@@ -8570,6 +8608,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 83.82) (xy 102.87 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc8428f2-0601-4440-af49-d268c242911d")
+	)
+	(wire
+		(pts
 			(xy 60.96 213.36) (xy 69.85 213.36)
 		)
 		(stroke
@@ -8690,7 +8738,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 78.74) (xy 78.74 78.74)
+			(xy 57.15 78.74) (xy 66.04 78.74)
 		)
 		(stroke
 			(width 0)
@@ -8777,6 +8825,16 @@
 			(type default)
 		)
 		(uuid "e54d85bc-76ff-41bf-9f61-35e4e3e0b7e1")
+	)
+	(wire
+		(pts
+			(xy 60.96 49.53) (xy 76.2 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e59213d5-cd29-4360-bffb-3aebbd374f1a")
 	)
 	(wire
 		(pts
@@ -8937,6 +8995,16 @@
 			(type default)
 		)
 		(uuid "f25f1ba8-25f2-4117-a1c5-9837ee422585")
+	)
+	(wire
+		(pts
+			(xy 45.72 49.53) (xy 60.96 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2a123f7-e2a4-4016-89af-f116635f8b39")
 	)
 	(wire
 		(pts
@@ -9187,6 +9255,16 @@
 			(justify right bottom)
 		)
 		(uuid "2ec6134d-2de9-4f21-bbb2-56ffee3ac452")
+	)
+	(label "DT_OSC_OUT"
+		(at 76.2 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "31560cb5-70bd-468e-a85c-e5b25a1a6622")
 	)
 	(label "DT_RR"
 		(at 29.21 252.73 0)
@@ -9548,6 +9626,16 @@
 		)
 		(uuid "829972c6-2121-4931-9433-1553ef4017c1")
 	)
+	(label "DT_OSC_IN"
+		(at 45.72 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8423ab05-427e-49db-ba40-659d3e81ac06")
+	)
 	(label "OSC_DT_A2"
 		(at 334.01 87.63 180)
 		(effects
@@ -9868,6 +9956,16 @@
 		)
 		(uuid "b71dfc61-2569-48cc-97f0-6506f37d8ced")
 	)
+	(label "DT_OSC_IN"
+		(at 92.71 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b86308c8-76dd-4adb-a967-ec649fe66ae9")
+	)
 	(label "NRST"
 		(at 29.21 212.09 0)
 		(effects
@@ -10007,6 +10105,16 @@
 			(justify right bottom)
 		)
 		(uuid "e342b1f6-2ba1-4604-a82d-31e749086026")
+	)
+	(label "DT_OSC_OUT"
+		(at 91.44 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e598414f-6dae-498f-af63-0c60bbd424ec")
 	)
 	(label "DT_OUT2"
 		(at 60.96 213.36 0)
@@ -11921,7 +12029,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 99.06 87.63 0)
+		(at 86.36 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11931,7 +12039,7 @@
 		(dnp no)
 		(uuid "10599f07-7c5d-4b13-a833-c3d8ab58e240")
 		(property "Reference" "#PWR0517"
-			(at 99.06 93.98 0)
+			(at 86.36 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11942,7 +12050,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 96.266 87.122 0)
+			(at 83.566 87.122 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11952,7 +12060,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 87.63 0)
+			(at 86.36 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11963,7 +12071,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 87.63 0)
+			(at 86.36 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11974,7 +12082,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 99.06 87.63 0)
+			(at 86.36 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11991,6 +12099,180 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
 					(reference "#PWR0517")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Crystal_GND24")
+		(at 60.96 41.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "11826526-2d02-452a-9354-40fd030554a3")
+		(property "Reference" "Y8"
+			(at 60.96 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "16 MHz"
+			(at 60.96 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
+			(at 60.96 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+			(at 60.96 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property private "KLC_S3.3" "The rectangle is not a symbol body but a graphical element"
+			(at 60.96 54.61 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property private "KLC_S4.1" "Some pins are on 50mil grid to make the symbol small"
+			(at 60.96 57.15 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 60.96 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CX3225SB16000H0FLJCC"
+			(at 60.96 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" "Lab stock"
+			(at 60.96 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" "Hand-solder"
+			(at 60.96 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 60.96 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" ""
+			(at 60.96 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cc9f936f-f41f-4589-8219-65e82cc669ea")
+		)
+		(pin "3"
+			(uuid "ee941761-2786-477c-ab20-dec33813dd11")
+		)
+		(pin "4"
+			(uuid "2f57f811-89fa-4133-a39f-e85410a53112")
+		)
+		(pin "1"
+			(uuid "41ff7ad0-31bd-4cc2-ac0d-e816c2c5f232")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "Y8")
 					(unit 1)
 				)
 			)
@@ -14546,6 +14828,153 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 76.2 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3f24ce63-d4cf-4f60-90d0-bd62ad66f067")
+		(property "Reference" "C80"
+			(at 68.834 44.4499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22pF"
+			(at 68.834 46.9899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 77.1652 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://yageogroup.com/download/specsheet/C0603C220J1GACTU"
+			(at 76.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 76.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 76.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603C220J1GACTU"
+			(at 76.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2168649"
+			(at 76.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" "Digikey"
+			(at 76.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" "Hand-solder"
+			(at 76.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" "Extended"
+			(at 76.2 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5b606cc0-073b-4d19-bc0e-056845bbca5b")
+		)
+		(pin "2"
+			(uuid "a2029ac6-aa45-4600-b641-33ce6027803f")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "C80")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 35.56 250.19 270)
 		(mirror x)
@@ -16364,6 +16793,84 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
 					(reference "C524")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 60.96 49.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f741481-eeb8-444b-bd28-c27b6f45a5ca")
+		(property "Reference" "#PWR0158"
+			(at 60.96 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 60.96 54.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 60.96 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "895752ca-9cb4-4fc5-904f-cd73987fa3cf")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "#PWR0158")
 					(unit 1)
 				)
 			)
@@ -18224,7 +18731,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead_Small")
-		(at 81.28 78.74 90)
+		(at 68.58 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18235,7 +18742,7 @@
 		(fields_autoplaced yes)
 		(uuid "623a8445-5dd2-4091-a081-598c154df26d")
 		(property "Reference" "FB501"
-			(at 81.2419 72.39 90)
+			(at 68.5419 72.39 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18245,7 +18752,7 @@
 			)
 		)
 		(property "Value" "600R@100MHz"
-			(at 81.2419 74.93 90)
+			(at 68.5419 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18255,7 +18762,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
-			(at 81.28 80.518 90)
+			(at 68.58 80.518 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18266,7 +18773,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 78.74 0)
+			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18277,7 +18784,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead, small symbol"
-			(at 81.28 78.74 0)
+			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18288,7 +18795,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 81.28 78.74 0)
+			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18299,7 +18806,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "742863160"
-			(at 81.28 78.74 0)
+			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18310,7 +18817,7 @@
 			)
 		)
 		(property "Source" "Lab stock"
-			(at 81.28 78.74 0)
+			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18321,7 +18828,7 @@
 			)
 		)
 		(property "Assembly" "Hand-solder"
-			(at 81.28 78.74 0)
+			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18332,7 +18839,7 @@
 			)
 		)
 		(property "LCSC Part #" ""
-			(at 81.28 78.74 0)
+			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18343,7 +18850,7 @@
 			)
 		)
 		(property "JLCPCB Category" ""
-			(at 81.28 78.74 0)
+			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26308,7 +26815,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 69.85 78.74 0)
+		(at 57.15 78.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26319,7 +26826,7 @@
 		(fields_autoplaced yes)
 		(uuid "be9d9cb0-42ac-4c25-b1cf-e8cb8444e86b")
 		(property "Reference" "#PWR0512"
-			(at 69.85 82.55 0)
+			(at 57.15 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26330,7 +26837,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 69.85 73.66 0)
+			(at 57.15 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26340,7 +26847,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 78.74 0)
+			(at 57.15 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26351,7 +26858,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 78.74 0)
+			(at 57.15 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26362,7 +26869,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 69.85 78.74 0)
+			(at 57.15 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27524,7 +28031,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 99.06 82.55 180)
+		(at 86.36 82.55 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27534,7 +28041,7 @@
 		(dnp no)
 		(uuid "d2783389-3c39-445e-a358-1fe1686c2b00")
 		(property "Reference" "C505"
-			(at 92.964 82.804 90)
+			(at 80.264 82.804 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27544,7 +28051,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 95.504 82.804 90)
+			(at 82.804 82.804 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27554,7 +28061,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 98.0948 78.74 0)
+			(at 85.3948 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27565,7 +28072,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 82.55 0)
+			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27576,7 +28083,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 99.06 82.55 0)
+			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27587,7 +28094,7 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 99.06 82.55 0)
+			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27598,7 +28105,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "CL10A105KB8NNNC"
-			(at 99.06 82.55 0)
+			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27609,7 +28116,7 @@
 			)
 		)
 		(property "Source" "DigiKey"
-			(at 99.06 82.55 0)
+			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27620,7 +28127,7 @@
 			)
 		)
 		(property "Assembly" "Hand-solder"
-			(at 99.06 82.55 0)
+			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27631,7 +28138,7 @@
 			)
 		)
 		(property "LCSC Part #" "C15849"
-			(at 99.06 82.55 0)
+			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27642,7 +28149,7 @@
 			)
 		)
 		(property "JLCPCB Category" "Basic"
-			(at 99.06 82.55 0)
+			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28193,7 +28700,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 88.9 87.63 0)
+		(at 76.2 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28203,7 +28710,7 @@
 		(dnp no)
 		(uuid "d7aecb8e-11db-4a4b-94b7-affa5ebec345")
 		(property "Reference" "#PWR0514"
-			(at 88.9 93.98 0)
+			(at 76.2 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28214,7 +28721,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 85.852 87.122 0)
+			(at 73.152 87.122 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28224,7 +28731,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 87.63 0)
+			(at 76.2 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28235,7 +28742,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 87.63 0)
+			(at 76.2 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28246,7 +28753,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 88.9 87.63 0)
+			(at 76.2 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30802,7 +31309,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 88.9 82.55 180)
+		(at 76.2 82.55 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -30812,7 +31319,7 @@
 		(dnp no)
 		(uuid "fcb65934-8f8d-4b1b-9979-31924200e0a9")
 		(property "Reference" "C502"
-			(at 82.804 82.804 90)
+			(at 70.104 82.804 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30822,7 +31329,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 85.344 82.804 90)
+			(at 72.644 82.804 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30832,7 +31339,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 87.9348 78.74 0)
+			(at 75.2348 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30843,7 +31350,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 82.55 0)
+			(at 76.2 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30854,7 +31361,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 88.9 82.55 0)
+			(at 76.2 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30865,7 +31372,7 @@
 			)
 		)
 		(property "Manufacturer" "KEMET"
-			(at 88.9 82.55 0)
+			(at 76.2 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30876,7 +31383,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "C0603C104K3RACAUTO"
-			(at 88.9 82.55 0)
+			(at 76.2 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30887,7 +31394,7 @@
 			)
 		)
 		(property "LCSC Part #" "C172738"
-			(at 88.9 82.55 0)
+			(at 76.2 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30898,7 +31405,7 @@
 			)
 		)
 		(property "JLCPCB Category" "Extended"
-			(at 88.9 82.55 0)
+			(at 76.2 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30909,7 +31416,7 @@
 			)
 		)
 		(property "Source" "DigiKey"
-			(at 88.9 82.55 0)
+			(at 76.2 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30920,7 +31427,7 @@
 			)
 		)
 		(property "Assembly" "Hand-solder"
-			(at 88.9 82.55 0)
+			(at 76.2 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31095,6 +31602,154 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
 					(reference "#PWR0532")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 45.72 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ff458e6c-dabb-41f4-8805-8a288dffc32f")
+		(property "Reference" "C79"
+			(at 49.53 44.4499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22pF"
+			(at 49.53 46.9899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 46.6852 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://yageogroup.com/download/specsheet/C0603C220J1GACTU"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603C220J1GACTU"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2168649"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" "Digikey"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" "Hand-solder"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" "Extended"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4c14d841-8249-4e87-b0dc-65054e7bde69")
+		)
+		(pin "2"
+			(uuid "dd937bfd-ce3d-4753-b40a-a5f0aa6a385b")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/ff564460-8953-4e4d-a963-0dca4a7bef06"
+					(reference "C79")
 					(unit 1)
 				)
 			)
