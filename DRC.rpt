@@ -1,0 +1,1948 @@
+** Drc report for pcb_lab.kicad_pcb **
+** Created on 2026-10-31T14:21:25 **
+** Report includes: Errors, Warnings **
+
+** Found 582 DRC violations **
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(180.8000 mm, 37.2000 mm): PCB text '12V in' on F.Silkscreen
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(180.8000 mm, 37.2000 mm): PCB text '12V in' on F.Silkscreen
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(191.5850 mm, 46.0650 mm): Value field of R218 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(191.5850 mm, 46.0650 mm): Value field of R218 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(115.4500 mm, 223.8000 mm): Reference field of TP201
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(115.4500 mm, 223.8000 mm): Reference field of TP201
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(210.3550 mm, 171.0000 mm): Value field of J303 (CAN_B_PROBE)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(210.3550 mm, 171.0000 mm): Value field of J303 (CAN_B_PROBE)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 238.1500 mm): Reference field of TP530
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 238.1500 mm): Reference field of TP530
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(184.1450 mm, 109.4450 mm): Value field of C510 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(184.1450 mm, 109.4450 mm): Value field of C510 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(190.7900 mm, 37.1150 mm): Value field of Q201 (AO4407A)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(190.7900 mm, 37.1150 mm): Value field of Q201 (AO4407A)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(169.0000 mm, 238.7750 mm): Value field of FB502 (600R@100MHz)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(169.0000 mm, 238.7750 mm): Value field of FB502 (600R@100MHz)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(189.7550 mm, 98.0900 mm): Value field of C506 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(189.7550 mm, 98.0900 mm): Value field of C506 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(124.3300 mm, 118.2500 mm): Value field of J302 (CAN_A_PROBE)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(124.3300 mm, 118.2500 mm): Value field of J302 (CAN_A_PROBE)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(121.2000 mm, 265.4396 mm): Reference field of J12
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(121.2000 mm, 265.4396 mm): Reference field of J12
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(121.2000 mm, 265.4396 mm): Value field of J12 (SERVO)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(121.2000 mm, 265.4396 mm): Value field of J12 (SERVO)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(135.9500 mm, 258.7000 mm): Value field of R52 (40m)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(135.9500 mm, 258.7000 mm): Value field of R52 (40m)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(171.0000 mm, 78.9250 mm): Value field of D504 (SK520B)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(171.0000 mm, 78.9250 mm): Value field of D504 (SK520B)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 231.0500 mm): Reference field of TP523
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 231.0500 mm): Reference field of TP523
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(213.3800 mm, 240.4000 mm): Value field of D517 (LED_YELLOW)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(213.3800 mm, 240.4000 mm): Value field of D517 (LED_YELLOW)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(184.2100 mm, 113.5800 mm): Value field of C508 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(184.2100 mm, 113.5800 mm): Value field of C508 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(174.0750 mm, 123.4850 mm): Reference field of TP501
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(174.0750 mm, 123.4850 mm): Reference field of TP501
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(191.5000 mm, 78.2500 mm): Reference field of TP202
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(191.5000 mm, 78.2500 mm): Reference field of TP202
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(191.5000 mm, 82.7500 mm): Value field of TP202 (5015)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(191.5000 mm, 82.7500 mm): Value field of TP202 (5015)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 234.6000 mm): Reference field of TP524
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 234.6000 mm): Reference field of TP524
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(185.0500 mm, 123.2000 mm): Reference field of TP512
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(185.0500 mm, 123.2000 mm): Reference field of TP512
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(162.6750 mm, 231.7500 mm): Value field of C78 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(162.6750 mm, 231.7500 mm): Value field of C78 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(166.5500 mm, 241.5750 mm): Value field of C531 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(166.5500 mm, 241.5750 mm): Value field of C531 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(204.0650 mm, 46.3750 mm): Reference field of TP504
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(204.0650 mm, 46.3750 mm): Reference field of TP504
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(164.6550 mm, 123.7000 mm): Value field of D509 (LED_YELLOW)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(164.6550 mm, 123.7000 mm): Value field of D509 (LED_YELLOW)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(172.7350 mm, 53.6750 mm): Value field of U502 (L298P)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(172.7350 mm, 53.6750 mm): Value field of U502 (L298P)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(178.0750 mm, 117.1250 mm): Value field of R504 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(178.0750 mm, 117.1250 mm): Value field of R504 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(118.4150 mm, 51.3100 mm): Value field of C519 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(118.4150 mm, 51.3100 mm): Value field of C519 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(169.3200 mm, 116.1750 mm): Value field of R506 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(169.3200 mm, 116.1750 mm): Value field of R506 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(117.7700 mm, 107.1250 mm): Value field of J501 (Conn_01x03)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(117.7700 mm, 107.1250 mm): Value field of J501 (Conn_01x03)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(162.2350 mm, 109.9850 mm): Value field of C502 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(162.2350 mm, 109.9850 mm): Value field of C502 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(129.9600 mm, 32.6250 mm): Value field of J504 (Conn_01x06)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(129.9600 mm, 32.6250 mm): Value field of J504 (Conn_01x06)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 223.9000 mm): Reference field of TP521
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 223.9000 mm): Reference field of TP521
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(200.0000 mm, 166.9300 mm): Value field of R302 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(200.0000 mm, 166.9300 mm): Value field of R302 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 216.4500 mm): Reference field of TP519
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 216.4500 mm): Reference field of TP519
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(198.1500 mm, 239.4500 mm): Reference field of TP528
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(198.1500 mm, 239.4500 mm): Reference field of TP528
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(183.5050 mm, 68.8250 mm): Value field of C509 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(183.5050 mm, 68.8250 mm): Value field of C509 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(205.4500 mm, 237.6000 mm): Value field of R522 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(205.4500 mm, 237.6000 mm): Value field of R522 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(220.0780 mm, 154.5630 mm): Value field of H4 (MountingHole)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(220.0780 mm, 154.5630 mm): Value field of H4 (MountingHole)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(219.1100 mm, 49.3350 mm): Value field of C527 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(219.1100 mm, 49.3350 mm): Value field of C527 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(179.5000 mm, 78.9750 mm): Value field of D505 (SK520B)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(179.5000 mm, 78.9750 mm): Value field of D505 (SK520B)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(156.5000 mm, 220.8000 mm): Value field of SW506 (SW_Push)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(156.5000 mm, 220.8000 mm): Value field of SW506 (SW_Push)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(134.6103 mm, 64.7000 mm): Value field of C514 (470uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(134.6103 mm, 64.7000 mm): Value field of C514 (470uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(172.8650 mm, 47.1750 mm): Value field of TP205 (5015)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(172.8650 mm, 47.1750 mm): Value field of TP205 (5015)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(197.9800 mm, 226.7500 mm): Reference field of J510
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(197.9800 mm, 226.7500 mm): Reference field of J510
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(180.5200 mm, 226.7500 mm): Value field of J510 (SWD)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(180.5200 mm, 226.7500 mm): Value field of J510 (SWD)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(170.8500 mm, 80.7250 mm): Value field of D506 (SK520B)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(170.8500 mm, 80.7250 mm): Value field of D506 (SK520B)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(192.9250 mm, 243.5500 mm): Value field of R519 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(192.9250 mm, 243.5500 mm): Value field of R519 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(211.6550 mm, 32.9250 mm): Value field of J505 (Conn_01x06)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(211.6550 mm, 32.9250 mm): Value field of J505 (Conn_01x06)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(187.0550 mm, 98.0850 mm): Value field of C507 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(187.0550 mm, 98.0850 mm): Value field of C507 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(189.0400 mm, 65.1350 mm): Value field of R525 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(189.0400 mm, 65.1350 mm): Value field of R525 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(164.3000 mm, 255.2500 mm): Reference field of TP527
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(164.3000 mm, 255.2500 mm): Reference field of TP527
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(190.0650 mm, 87.3500 mm): Reference field of TP506
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(190.0650 mm, 87.3500 mm): Reference field of TP506
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(200.0000 mm, 171.9300 mm): Value field of R303 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(200.0000 mm, 171.9300 mm): Value field of R303 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(165.5000 mm, 96.9450 mm): Value field of R501 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(165.5000 mm, 96.9450 mm): Value field of R501 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(157.3250 mm, 233.4000 mm): Value field of R518 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(157.3250 mm, 233.4000 mm): Value field of R518 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(150.8000 mm, 90.1750 mm): Value field of SW501 (SW_Push)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(150.8000 mm, 90.1750 mm): Value field of SW501 (SW_Push)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(219.0600 mm, 45.8650 mm): Value field of C530 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(219.0600 mm, 45.8650 mm): Value field of C530 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(152.6800 mm, 231.8000 mm): Value field of D514 (LED_BLUE)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(152.6800 mm, 231.8000 mm): Value field of D514 (LED_BLUE)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(162.4000 mm, 226.0500 mm): Value field of C77 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(162.4000 mm, 226.0500 mm): Value field of C77 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(179.6900 mm, 114.1450 mm): Value field of C504 (4.7uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(179.6900 mm, 114.1450 mm): Value field of C504 (4.7uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(179.4000 mm, 80.5250 mm): Value field of D507 (SK520B)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(179.4000 mm, 80.5250 mm): Value field of D507 (SK520B)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(134.0500 mm, 235.8500 mm): Reference field of TP529
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(134.0500 mm, 235.8500 mm): Reference field of TP529
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 227.5000 mm): Reference field of TP522
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 227.5000 mm): Reference field of TP522
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(164.1500 mm, 241.5750 mm): Value field of C539 (1uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(164.1500 mm, 241.5750 mm): Value field of C539 (1uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(205.0000 mm, 161.0000 mm): Value field of D301 (PI_DEG_A_BLUE)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(205.0000 mm, 161.0000 mm): Value field of D301 (PI_DEG_A_BLUE)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(132.4800 mm, 48.1400 mm): Reference field of U503
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(132.4800 mm, 48.1400 mm): Reference field of U503
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(168.6000 mm, 228.5500 mm): Value field of C533 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(168.6000 mm, 228.5500 mm): Value field of C533 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(162.4750 mm, 228.9500 mm): Value field of Y7 (16 MHz)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(162.4750 mm, 228.9500 mm): Value field of Y7 (16 MHz)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(185.5000 mm, 242.0000 mm): Value field of C538 (4.7uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(185.5000 mm, 242.0000 mm): Value field of C538 (4.7uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(168.8150 mm, 97.4450 mm): Value field of C513 (4.7uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(168.8150 mm, 97.4450 mm): Value field of C513 (4.7uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(166.9000 mm, 233.1000 mm): Value field of C532 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(166.9000 mm, 233.1000 mm): Value field of C532 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(140.7000 mm, 269.5000 mm): Reference field of TP507
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(140.7000 mm, 269.5000 mm): Reference field of TP507
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(121.5250 mm, 49.2950 mm): Value field of R509 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(121.5250 mm, 49.2950 mm): Value field of R509 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(178.3950 mm, 123.6650 mm): Value field of D503 (LED_RED)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(178.3950 mm, 123.6650 mm): Value field of D503 (LED_RED)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(205.0000 mm, 172.5000 mm): Value field of D303 (PI_ERROR_RED)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(205.0000 mm, 172.5000 mm): Value field of D303 (PI_ERROR_RED)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(161.6500 mm, 236.3000 mm): Reference field of TP526
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(161.6500 mm, 236.3000 mm): Reference field of TP526
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(197.7200 mm, 247.3500 mm): Value field of D516 (LED_RED)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(197.7200 mm, 247.3500 mm): Value field of D516 (LED_RED)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(218.8900 mm, 47.5950 mm): Value field of R515 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(218.8900 mm, 47.5950 mm): Value field of R515 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(221.1350 mm, 181.5000 mm): Value field of S301 (PI_SELF_TEST)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(221.1350 mm, 181.5000 mm): Value field of S301 (PI_SELF_TEST)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(163.2550 mm, 96.9350 mm): Value field of C501 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(163.2550 mm, 96.9350 mm): Value field of C501 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(205.0000 mm, 166.5000 mm): Value field of D302 (PI_DEG_B_BLUE)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(205.0000 mm, 166.5000 mm): Value field of D302 (PI_DEG_B_BLUE)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(153.8500 mm, 104.6500 mm): Value field of R502 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(153.8500 mm, 104.6500 mm): Value field of R502 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(184.6300 mm, 155.0250 mm): Reference field of J301
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(184.6300 mm, 155.0250 mm): Reference field of J301
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(184.6300 mm, 208.0450 mm): Value field of J301 (PI_GPIO_40)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(184.6300 mm, 208.0450 mm): Value field of J301 (PI_GPIO_40)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(140.5050 mm, 51.2250 mm): Value field of D510 (SK520B)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(140.5050 mm, 51.2250 mm): Value field of D510 (SK520B)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(135.7950 mm, 51.1750 mm): Value field of D511 (SK520B)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(135.7950 mm, 51.1750 mm): Value field of D511 (SK520B)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(149.0000 mm, 50.2500 mm): Reference field of TP203
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(149.0000 mm, 50.2500 mm): Reference field of TP203
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(149.0000 mm, 45.7500 mm): Value field of TP203 (5015)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(149.0000 mm, 45.7500 mm): Value field of TP203 (5015)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(140.8009 mm, 265.5000 mm): Value field of R1 (1K)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(140.8009 mm, 265.5000 mm): Value field of R1 (1K)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(156.8500 mm, 107.5500 mm): Value field of R503 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(156.8500 mm, 107.5500 mm): Value field of R503 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(164.3250 mm, 110.1000 mm): Value field of C505 (1uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(164.3250 mm, 110.1000 mm): Value field of C505 (1uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(187.6400 mm, 46.2500 mm): Value field of D201 (BZT52C12)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(187.6400 mm, 46.2500 mm): Value field of D201 (BZT52C12)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(158.7850 mm, 67.6650 mm): Value field of R524 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(158.7850 mm, 67.6650 mm): Value field of R524 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(129.5600 mm, 55.9700 mm): Value field of C515 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(129.5600 mm, 55.9700 mm): Value field of C515 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(154.5750 mm, 229.3000 mm): Value field of R523 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(154.5750 mm, 229.3000 mm): Value field of R523 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(140.8500 mm, 261.7700 mm): Value field of C85 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(140.8500 mm, 261.7700 mm): Value field of C85 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(212.4400 mm, 46.6550 mm): Value field of R514 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(212.4400 mm, 46.6550 mm): Value field of R514 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(152.6500 mm, 108.9500 mm): Reference field of TP513
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(152.6500 mm, 108.9500 mm): Reference field of TP513
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(160.0650 mm, 109.9350 mm): Value field of FB501 (600R@100MHz)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(160.0650 mm, 109.9350 mm): Value field of FB501 (600R@100MHz)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(206.1950 mm, 50.9250 mm): Value field of D512 (SK520B)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(206.1950 mm, 50.9250 mm): Value field of D512 (SK520B)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(209.4950 mm, 48.3750 mm): Value field of C524 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(209.4950 mm, 48.3750 mm): Value field of C524 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(158.3000 mm, 229.2000 mm): Value field of C541 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(158.3000 mm, 229.2000 mm): Value field of C541 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 220.2500 mm): Reference field of TP520
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(225.2500 mm, 220.2500 mm): Reference field of TP520
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(152.6800 mm, 237.1950 mm): Value field of D515 (LED_BLUE)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(152.6800 mm, 237.1950 mm): Value field of D515 (LED_BLUE)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(124.3250 mm, 61.6350 mm): Reference field of TP503
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(124.3250 mm, 61.6350 mm): Reference field of TP503
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(175.8300 mm, 226.0250 mm): Value field of R43 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(175.8300 mm, 226.0250 mm): Value field of R43 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(160.8000 mm, 249.1000 mm): Value field of J509 (Conn_01x03)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(160.8000 mm, 249.1000 mm): Value field of J509 (Conn_01x03)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(177.0000 mm, 243.5000 mm): Value field of C540 (4.7uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(177.0000 mm, 243.5000 mm): Value field of C540 (4.7uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(192.1000 mm, 249.7500 mm): Reference field of TP531
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(192.1000 mm, 249.7500 mm): Reference field of TP531
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(196.9900 mm, 93.4150 mm): Reference field of J502
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(196.9900 mm, 93.4150 mm): Reference field of J502
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(179.3300 mm, 93.4150 mm): Value field of J502 (SWD)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(179.3300 mm, 93.4150 mm): Value field of J502 (SWD)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(166.0950 mm, 101.9850 mm): Value field of C503 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(166.0950 mm, 101.9850 mm): Value field of C503 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(141.9650 mm, 80.3750 mm): Reference field of TP502
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(141.9650 mm, 80.3750 mm): Reference field of TP502
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(172.5150 mm, 94.8250 mm): Value field of R505 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(172.5150 mm, 94.8250 mm): Value field of R505 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(181.3500 mm, 244.0500 mm): Value field of C535 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(181.3500 mm, 244.0500 mm): Value field of C535 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(124.0250 mm, 53.4300 mm): Value field of R508 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(124.0250 mm, 53.4300 mm): Value field of R508 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(131.2500 mm, 265.8000 mm): Value field of C86 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(131.2500 mm, 265.8000 mm): Value field of C86 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(121.9220 mm, 154.5630 mm): Value field of H3 (MountingHole)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(121.9220 mm, 154.5630 mm): Value field of H3 (MountingHole)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(127.4750 mm, 238.9000 mm): Value field of R520 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(127.4750 mm, 238.9000 mm): Value field of R520 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(138.2500 mm, 249.4964 mm): Reference field of C87
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(138.2500 mm, 249.4964 mm): Reference field of C87
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(138.2500 mm, 249.4964 mm): Value field of C87 (220uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(138.2500 mm, 249.4964 mm): Value field of C87 (220uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(152.7000 mm, 101.9000 mm): Reference field of TP514
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(152.7000 mm, 101.9000 mm): Reference field of TP514
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(200.0000 mm, 161.4300 mm): Value field of R301 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(200.0000 mm, 161.4300 mm): Value field of R301 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(171.0000 mm, 226.5000 mm): Value field of C537 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(171.0000 mm, 226.5000 mm): Value field of C537 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(216.3900 mm, 54.7850 mm): Value field of U506 (ACS712xLCTR-05B)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(216.3900 mm, 54.7850 mm): Value field of U506 (ACS712xLCTR-05B)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(159.2250 mm, 64.0200 mm): Value field of C512 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(159.2250 mm, 64.0200 mm): Value field of C512 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(161.6000 mm, 232.7000 mm): Reference field of TP525
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(161.6000 mm, 232.7000 mm): Reference field of TP525
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(174.2500 mm, 245.5000 mm): Value field of C534 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(174.2500 mm, 245.5000 mm): Value field of C534 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(200.6500 mm, 50.6450 mm): Value field of D513 (SK520B)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(200.6500 mm, 50.6450 mm): Value field of D513 (SK520B)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(124.8400 mm, 47.6550 mm): Value field of C516 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(124.8400 mm, 47.6550 mm): Value field of C516 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(165.3900 mm, 116.1250 mm): Value field of R507 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(165.3900 mm, 116.1250 mm): Value field of R507 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(157.3450 mm, 238.8000 mm): Value field of R521 (220R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(157.3450 mm, 238.8000 mm): Value field of R521 (220R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(186.9950 mm, 113.6650 mm): Value field of C511 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(186.9950 mm, 113.6650 mm): Value field of C511 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(135.8250 mm, 263.6500 mm): Value field of U18 (INA180A1IDBVT)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(135.8250 mm, 263.6500 mm): Value field of U18 (INA180A1IDBVT)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(184.8500 mm, 229.4500 mm): Value field of C536 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(184.8500 mm, 229.4500 mm): Value field of C536 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(121.0500 mm, 234.8500 mm): Value field of D518 (LED_YELLOW)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(121.0500 mm, 234.8500 mm): Value field of D518 (LED_YELLOW)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(169.3800 mm, 123.7350 mm): Value field of D508 (LED_YELLOW)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(169.3800 mm, 123.7350 mm): Value field of D508 (LED_YELLOW)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(207.0000 mm, 116.0700 mm): Value field of C304 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(207.0000 mm, 116.0700 mm): Value field of C304 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(159.6000 mm, 196.8750 mm): Value field of R213 (51R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(159.6000 mm, 196.8750 mm): Value field of R213 (51R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(143.9750 mm, 42.8250 mm): Value field of C218 (22uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(143.9750 mm, 42.8250 mm): Value field of C218 (22uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(207.2900 mm, 107.9050 mm): Value field of C526 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(207.2900 mm, 107.9050 mm): Value field of C526 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(212.4300 mm, 211.0000 mm): Value field of C74 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(212.4300 mm, 211.0000 mm): Value field of C74 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(198.1750 mm, 60.0069 mm): Value field of C211 (10nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(198.1750 mm, 60.0069 mm): Value field of C211 (10nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(155.5750 mm, 48.3750 mm): Value field of L203 (3.3uH)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(155.5750 mm, 48.3750 mm): Value field of L203 (3.3uH)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(195.2750 mm, 135.0000 mm): Value field of C308 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(195.2750 mm, 135.0000 mm): Value field of C308 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(207.7000 mm, 126.6375 mm): Reference field of U302
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(207.7000 mm, 126.6375 mm): Reference field of U302
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(199.3000 mm, 126.6375 mm): Value field of U302 (MCP2515T-I/ST)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(199.3000 mm, 126.6375 mm): Value field of U302 (MCP2515T-I/ST)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(155.0500 mm, 189.3000 mm): Value field of C207 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(155.0500 mm, 189.3000 mm): Value field of C207 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(138.9125 mm, 122.7000 mm): Reference field of U301
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(138.9125 mm, 122.7000 mm): Reference field of U301
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(138.9125 mm, 114.3000 mm): Value field of U301 (MCP2515T-I/ST)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(138.9125 mm, 114.3000 mm): Value field of U301 (MCP2515T-I/ST)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(116.2750 mm, 131.6750 mm): Value field of R306 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(116.2750 mm, 131.6750 mm): Value field of R306 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(127.9000 mm, 102.9350 mm): Value field of C522 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(127.9000 mm, 102.9350 mm): Value field of C522 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(204.3000 mm, 112.7500 mm): Value field of Y502 (16 MHz)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(204.3000 mm, 112.7500 mm): Value field of Y502 (16 MHz)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(132.3800 mm, 191.0000 mm): Reference field of SW11
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(132.3800 mm, 191.0000 mm): Reference field of SW11
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(123.6200 mm, 191.0000 mm): Value field of SW11 (219-2MSTR)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(123.6200 mm, 191.0000 mm): Value field of SW11 (219-2MSTR)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(185.3800 mm, 100.7650 mm): Value field of R511 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(185.3800 mm, 100.7650 mm): Value field of R511 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(161.8950 mm, 38.8250 mm): Value field of C212 (10nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(161.8950 mm, 38.8250 mm): Value field of C212 (10nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(143.7750 mm, 126.5000 mm): Value field of C301 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(143.7750 mm, 126.5000 mm): Value field of C301 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(220.0000 mm, 197.0000 mm): Value field of R49 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(220.0000 mm, 197.0000 mm): Value field of R49 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(215.4100 mm, 144.5000 mm): Reference field of SW304
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(215.4100 mm, 144.5000 mm): Reference field of SW304
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(210.5900 mm, 144.5000 mm): Value field of SW304 (CVS-01TB)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(210.5900 mm, 144.5000 mm): Value field of SW304 (CVS-01TB)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(158.0000 mm, 182.8250 mm): Value field of C210 (10nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(158.0000 mm, 182.8250 mm): Value field of C210 (10nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(135.0000 mm, 98.4750 mm): Value field of Y501 (16 MHz)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(135.0000 mm, 98.4750 mm): Value field of Y501 (16 MHz)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(122.0000 mm, 214.5000 mm): Value field of C71 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(122.0000 mm, 214.5000 mm): Value field of C71 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(158.8950 mm, 38.8250 mm): Value field of R209 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(158.8950 mm, 38.8250 mm): Value field of R209 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(144.6000 mm, 200.3250 mm): Value field of C219 (22uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(144.6000 mm, 200.3250 mm): Value field of C219 (22uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(209.5000 mm, 205.0000 mm): Value field of Y6 (16 MHz)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(209.5000 mm, 205.0000 mm): Value field of Y6 (16 MHz)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(196.0000 mm, 202.0000 mm): Value field of C70 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(196.0000 mm, 202.0000 mm): Value field of C70 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(194.6750 mm, 48.2569 mm): Value field of C202 (10uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(194.6750 mm, 48.2569 mm): Value field of C202 (10uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(123.6750 mm, 211.3625 mm): Reference field of U14
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(123.6750 mm, 211.3625 mm): Reference field of U14
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(132.0750 mm, 211.3625 mm): Value field of U14 (MCP2515T-I/ST)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(132.0750 mm, 211.3625 mm): Value field of U14 (MCP2515T-I/ST)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(132.2750 mm, 109.5000 mm): Value field of C307 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(132.2750 mm, 109.5000 mm): Value field of C307 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(194.2000 mm, 98.9750 mm): Value field of C518 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(194.2000 mm, 98.9750 mm): Value field of C518 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(218.3800 mm, 134.0000 mm): Reference field of SW302
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(218.3800 mm, 134.0000 mm): Reference field of SW302
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(209.6200 mm, 134.0000 mm): Value field of SW302 (219-2MSTR)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(209.6200 mm, 134.0000 mm): Value field of SW302 (219-2MSTR)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(200.5000 mm, 133.0675 mm): Value field of C310 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(200.5000 mm, 133.0675 mm): Value field of C310 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(201.5000 mm, 140.5000 mm): Value field of C305 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(201.5000 mm, 140.5000 mm): Value field of C305 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(203.0000 mm, 200.3000 mm): Reference field of U15
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(203.0000 mm, 200.3000 mm): Reference field of U15
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(203.0000 mm, 208.7000 mm): Value field of U15 (MCP2515T-I/ST)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(203.0000 mm, 208.7000 mm): Value field of U15 (MCP2515T-I/ST)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(152.3250 mm, 41.2550 mm): Value field of R215 (51R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(152.3250 mm, 41.2550 mm): Value field of R215 (51R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(147.8000 mm, 200.2250 mm): Value field of C222 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(147.8000 mm, 200.2250 mm): Value field of C222 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(140.4750 mm, 42.8250 mm): Value field of C221 (22uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(140.4750 mm, 42.8250 mm): Value field of C221 (22uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(129.8650 mm, 130.0000 mm): Reference field of SW303
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(129.8650 mm, 130.0000 mm): Reference field of SW303
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(220.8850 mm, 95.2650 mm): Value field of R513 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(220.8850 mm, 95.2650 mm): Value field of R513 (10k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(201.0100 mm, 107.7650 mm): Value field of C529 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(201.0100 mm, 107.7650 mm): Value field of C529 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(158.0000 mm, 190.0000 mm): Value field of R207 (30k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(158.0000 mm, 190.0000 mm): Value field of R207 (30k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(160.0000 mm, 190.2000 mm): Value field of C213 (33pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(160.0000 mm, 190.2000 mm): Value field of C213 (33pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(156.3250 mm, 41.2550 mm): Value field of R212 (45.3k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(156.3250 mm, 41.2550 mm): Value field of R212 (45.3k)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(154.9000 mm, 194.9000 mm): Value field of C201 (10uF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(154.9000 mm, 194.9000 mm): Value field of C201 (10uF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(194.6750 mm, 51.9369 mm): Value field of C208 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(194.6750 mm, 51.9369 mm): Value field of C208 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(134.0000 mm, 208.9300 mm): Value field of C73 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(134.0000 mm, 208.9300 mm): Value field of C73 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(214.0000 mm, 206.0000 mm): Value field of C68 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(214.0000 mm, 206.0000 mm): Value field of C68 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(127.8700 mm, 64.7550 mm): Value field of R516 (120R)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(127.8700 mm, 64.7550 mm): Value field of R516 (120R)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(136.5000 mm, 200.0000 mm): Value field of C75 (22pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(136.5000 mm, 200.0000 mm): Value field of C75 (22pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(156.3250 mm, 38.7550 mm): Value field of C215 (33pF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(156.3250 mm, 38.7550 mm): Value field of C215 (33pF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(211.4000 mm, 102.2750 mm): Value field of C523 (100nF)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(211.4000 mm, 102.2750 mm): Value field of C523 (100nF)
+[text_thickness]: Text thickness out of range (rule 'Silkscreen text' min thickness 0.1500 mm; actual 0.1250 mm)
+    Rule: Silkscreen text; warning
+    @(198.5000 mm, 202.0000 mm): Value field of R47 (10k)
+[text_height]: Text height out of range (rule 'Silkscreen text' min height 1.0000 mm; actual 0.5000 mm)
+    Rule: Silkscreen text; warning
+    @(198.5000 mm, 202.0000 mm): Value field of R47 (10k)
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(160.0650 mm, 109.9350 mm): Value field of FB501 (600R@100MHz)
+    @(162.2350 mm, 109.9850 mm): Value field of C502 (100nF)
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(159.6750 mm, 113.4250 mm): Rectangle of TP509 on F.Silkscreen
+    @(157.9750 mm, 114.5750 mm): Reference field of TP509
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(163.5450 mm, 94.0050 mm): Reference field of C80
+    @(162.6450 mm, 93.8650 mm): Reference field of Y8
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(166.8050 mm, 95.9250 mm): Segment of Y8 on F.Silkscreen
+    @(166.4450 mm, 93.7950 mm): Reference field of C79
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(169.3750 mm, 88.3750 mm): Rectangle of TP510 on F.Silkscreen
+    @(174.7750 mm, 89.5250 mm): Reference field of TP510
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(161.6000 mm, 232.7000 mm): Reference field of TP525
+    @(162.6750 mm, 231.7500 mm): Value field of C78 (22pF)
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(215.2750 mm, 169.6200 mm): Segment of J303 on F.Silkscreen
+    @(218.5000 mm, 169.5000 mm): PCB text 'PI_ERR_LED' on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(216.6550 mm, 169.6200 mm): Segment of J303 on F.Silkscreen
+    @(218.5000 mm, 169.5000 mm): PCB text 'PI_ERR_LED' on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(121.2000 mm, 265.4396 mm): Value field of J12 (SERVO)
+    @(121.2000 mm, 265.4396 mm): Reference field of J12
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(138.2500 mm, 249.4964 mm): Value field of C87 (220uF)
+    @(138.2500 mm, 249.4964 mm): Reference field of C87
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(157.9750 mm, 114.5750 mm): Reference field of TP509
+    @(161.5750 mm, 114.5250 mm): Pad 1 [/Drivetrain/DT_RL] of TP509 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.6450 mm, 93.8650 mm): Reference field of Y8
+    @(162.1150 mm, 93.2300 mm): Pad 1 [/Drivetrain/DT_OSC_OUT] of C80 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.6450 mm, 93.8650 mm): Reference field of Y8
+    @(162.1150 mm, 94.7800 mm): Pad 2 [GND] of C80 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.4450 mm, 93.7950 mm): Reference field of C79
+    @(165.9450 mm, 92.7650 mm): Pad 2 [GND] of Y8 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.4450 mm, 93.7950 mm): Reference field of C79
+    @(165.9450 mm, 94.9650 mm): Pad 1 [/Drivetrain/DT_OSC_IN] of Y8 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(163.5450 mm, 94.0050 mm): Reference field of C80
+    @(164.2450 mm, 94.9650 mm): Pad 4 [GND] of Y8 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(163.5450 mm, 94.0050 mm): Reference field of C80
+    @(164.2450 mm, 92.7650 mm): Pad 3 [/Drivetrain/DT_OSC_OUT] of Y8 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(174.7750 mm, 89.5250 mm): Reference field of TP510
+    @(171.2750 mm, 89.4750 mm): Pad 1 [/Drivetrain/DT_IN1] of TP510 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(205.4500 mm, 237.6000 mm): Value field of R522 (220R)
+    @(206.3250 mm, 237.7000 mm): Pad 1 [Net-(D517-A)] of R522 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(205.4500 mm, 237.6000 mm): Value field of R522 (220R)
+    @(204.6750 mm, 237.7000 mm): Pad 2 [/Steering/ST_FL] of R522 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.2000 mm, 265.4396 mm): Reference field of J12
+    @(121.2000 mm, 265.4396 mm): PTH pad 2 [/Steering/SERVO_V+] of J12
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.2000 mm, 265.4396 mm): Value field of J12 (SERVO)
+    @(121.2000 mm, 265.4396 mm): PTH pad 2 [/Steering/SERVO_V+] of J12
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(140.8009 mm, 265.5000 mm): Value field of R1 (1K)
+    @(139.9500 mm, 265.5000 mm): Pad 1 [/Steering/TP_SERVO_ISENSE] of R1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(140.8009 mm, 265.5000 mm): Value field of R1 (1K)
+    @(141.6518 mm, 265.5000 mm): Pad 2 [/Steering/SERVO_ISENSE] of R1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8250 mm, 263.6500 mm): Value field of U18 (INA180A1IDBVT)
+    @(137.3000 mm, 263.6500 mm): Pad 2 [GND] of U18 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(170.5750 mm, 113.6750 mm): Rectangle of TP508 on F.Silkscreen
+    @(172.4750 mm, 114.7750 mm): Pad 1 [/Drivetrain/DT_RR] of TP508 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(171.1750 mm, 122.1810 mm): Segment of D508 on F.Silkscreen
+    @(170.8850 mm, 120.9450 mm): PTH pad 1 [GND] of D508
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(173.0650 mm, 122.6750 mm): Rectangle of TP501 on F.Silkscreen
+    @(174.1650 mm, 120.7750 mm): Pad 1 [/Drivetrain/DT_ERR] of TP501 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(171.1750 mm, 119.8650 mm): Segment of D508 on F.Silkscreen
+    @(170.8850 mm, 120.9450 mm): PTH pad 1 [GND] of D508
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(183.2250 mm, 119.9750 mm): Rectangle of TP512 on F.Silkscreen
+    @(185.1250 mm, 121.0750 mm): Pad 1 [/Drivetrain/DT_PWM_SET] of TP512 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(178.4450 mm, 120.8750 mm): Arc of D503 on F.Silkscreen
+    @(177.1750 mm, 120.8750 mm): PTH pad 2 [Net-(D503-A)] of D503
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(178.4450 mm, 120.8750 mm): Arc of D503 on F.Silkscreen
+    @(179.7150 mm, 120.8750 mm): PTH pad 1 [GND] of D503
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(180.0050 mm, 119.7950 mm): Segment of D503 on F.Silkscreen
+    @(179.7150 mm, 120.8750 mm): PTH pad 1 [GND] of D503
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(178.4450 mm, 120.8750 mm): Arc of D503 on F.Silkscreen
+    @(177.1750 mm, 120.8750 mm): PTH pad 2 [Net-(D503-A)] of D503
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(178.4450 mm, 120.8750 mm): Arc of D503 on F.Silkscreen
+    @(179.7150 mm, 120.8750 mm): PTH pad 1 [GND] of D503
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(180.0050 mm, 122.1110 mm): Segment of D503 on F.Silkscreen
+    @(179.7150 mm, 120.8750 mm): PTH pad 1 [GND] of D503
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(123.0750 mm, 58.4350 mm): Rectangle of TP503 on F.Silkscreen
+    @(124.1750 mm, 56.5350 mm): Pad 1 [/Drivetrain/DT_ISENSE_L_RAW] of TP503 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.6550 mm, 120.9150 mm): Arc of D509 on F.Silkscreen
+    @(165.9250 mm, 120.9150 mm): PTH pad 2 [Net-(D509-A)] of D509
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.6550 mm, 120.9150 mm): Arc of D509 on F.Silkscreen
+    @(163.3850 mm, 120.9150 mm): PTH pad 1 [GND] of D509
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.6550 mm, 120.9150 mm): Arc of D509 on F.Silkscreen
+    @(165.9250 mm, 120.9150 mm): PTH pad 2 [Net-(D509-A)] of D509
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(164.6550 mm, 120.9150 mm): Arc of D509 on F.Silkscreen
+    @(163.3850 mm, 120.9150 mm): PTH pad 1 [GND] of D509
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(163.0950 mm, 121.9950 mm): Segment of D509 on F.Silkscreen
+    @(163.3850 mm, 120.9150 mm): PTH pad 1 [GND] of D509
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(163.0950 mm, 119.6790 mm): Segment of D509 on F.Silkscreen
+    @(163.3850 mm, 120.9150 mm): PTH pad 1 [GND] of D509
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(169.6150 mm, 120.9450 mm): Arc of D508 on F.Silkscreen
+    @(168.3450 mm, 120.9450 mm): PTH pad 2 [Net-(D508-A)] of D508
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(169.6150 mm, 120.9450 mm): Arc of D508 on F.Silkscreen
+    @(170.8850 mm, 120.9450 mm): PTH pad 1 [GND] of D508
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(169.6150 mm, 120.9450 mm): Arc of D508 on F.Silkscreen
+    @(168.3450 mm, 120.9450 mm): PTH pad 2 [Net-(D508-A)] of D508
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(169.6150 mm, 120.9450 mm): Arc of D508 on F.Silkscreen
+    @(170.8850 mm, 120.9450 mm): PTH pad 1 [GND] of D508
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.6750 mm, 113.4250 mm): Rectangle of TP509 on F.Silkscreen
+    @(161.5750 mm, 114.5250 mm): Pad 1 [/Drivetrain/DT_RL] of TP509 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(153.3000 mm, 107.9000 mm): Rectangle of TP513 on F.Silkscreen
+    @(155.2000 mm, 109.0000 mm): Pad 1 [/Drivetrain/DT_DEG_B] of TP513 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(224.3750 mm, 104.2750 mm): Rectangle of TP516 on F.Silkscreen
+    @(226.2750 mm, 105.3750 mm): Pad 1 [/Drivetrain/DT_TP_CAN_TX_A] of TP516 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(224.3250 mm, 101.2250 mm): Rectangle of TP515 on F.Silkscreen
+    @(226.2250 mm, 102.3250 mm): Pad 1 [/Drivetrain/DT_TP_CAN_TX_B] of TP515 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(224.3750 mm, 107.3250 mm): Rectangle of TP517 on F.Silkscreen
+    @(226.2750 mm, 108.4250 mm): Pad 1 [/Drivetrain/DT_TP_CAN_RX_B] of TP517 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(224.3750 mm, 110.4750 mm): Rectangle of TP518 on F.Silkscreen
+    @(226.2750 mm, 111.5750 mm): Pad 1 [/Drivetrain/DT_TP_CAN_RX_A] of TP518 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(224.2650 mm, 97.9750 mm): Rectangle of TP505 on F.Silkscreen
+    @(226.1650 mm, 99.0750 mm): Pad 1 [/Drivetrain/DT_OVERLOAD] of TP505 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(227.9000 mm, 164.6000 mm): Rectangle of TP309 on F.Silkscreen
+    @(226.0000 mm, 163.5000 mm): Pad 1 [/Cockpit/PI_DEG_B_LED] of TP309 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(227.9000 mm, 159.1000 mm): Rectangle of TP308 on F.Silkscreen
+    @(226.0000 mm, 158.0000 mm): Pad 1 [/Cockpit/PI_DEG_A_LED] of TP308 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 158.5000 mm): Arc of D301 on F.Silkscreen
+    @(203.7300 mm, 158.5000 mm): PTH pad 1 [GND] of D301
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 158.5000 mm): Arc of D301 on F.Silkscreen
+    @(206.2700 mm, 158.5000 mm): PTH pad 2 [Net-(D301-A)] of D301
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 158.5000 mm): Arc of D301 on F.Silkscreen
+    @(203.7300 mm, 158.5000 mm): PTH pad 1 [GND] of D301
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 158.5000 mm): Arc of D301 on F.Silkscreen
+    @(206.2700 mm, 158.5000 mm): PTH pad 2 [Net-(D301-A)] of D301
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(203.4400 mm, 159.5800 mm): Segment of D301 on F.Silkscreen
+    @(203.7300 mm, 158.5000 mm): PTH pad 1 [GND] of D301
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(203.4400 mm, 157.2640 mm): Segment of D301 on F.Silkscreen
+    @(203.7300 mm, 158.5000 mm): PTH pad 1 [GND] of D301
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 164.0300 mm): Arc of D302 on F.Silkscreen
+    @(206.2700 mm, 164.0300 mm): PTH pad 2 [Net-(D302-A)] of D302
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 164.0300 mm): Arc of D302 on F.Silkscreen
+    @(203.7300 mm, 164.0300 mm): PTH pad 1 [GND] of D302
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(203.4400 mm, 162.7940 mm): Segment of D302 on F.Silkscreen
+    @(203.7300 mm, 164.0300 mm): PTH pad 1 [GND] of D302
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(138.0900 mm, 97.8300 mm): Segment of D502 on F.Silkscreen
+    @(138.3800 mm, 96.7500 mm): PTH pad 1 [GND] of D502
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(139.6500 mm, 96.7500 mm): Arc of D502 on F.Silkscreen
+    @(140.9200 mm, 96.7500 mm): PTH pad 2 [Net-(D502-A)] of D502
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(139.6500 mm, 96.7500 mm): Arc of D502 on F.Silkscreen
+    @(138.3800 mm, 96.7500 mm): PTH pad 1 [GND] of D502
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(139.6500 mm, 96.7500 mm): Arc of D502 on F.Silkscreen
+    @(140.9200 mm, 96.7500 mm): PTH pad 2 [Net-(D502-A)] of D502
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(139.6500 mm, 96.7500 mm): Arc of D502 on F.Silkscreen
+    @(138.3800 mm, 96.7500 mm): PTH pad 1 [GND] of D502
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(138.0900 mm, 95.5140 mm): Segment of D502 on F.Silkscreen
+    @(138.3800 mm, 96.7500 mm): PTH pad 1 [GND] of D502
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(139.6500 mm, 91.6500 mm): Arc of D501 on F.Silkscreen
+    @(140.9200 mm, 91.6500 mm): PTH pad 2 [Net-(D501-A)] of D501
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(139.6500 mm, 91.6500 mm): Arc of D501 on F.Silkscreen
+    @(138.3800 mm, 91.6500 mm): PTH pad 1 [GND] of D501
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(138.0900 mm, 92.7300 mm): Segment of D501 on F.Silkscreen
+    @(138.3800 mm, 91.6500 mm): PTH pad 1 [GND] of D501
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(138.0900 mm, 90.4140 mm): Segment of D501 on F.Silkscreen
+    @(138.3800 mm, 91.6500 mm): PTH pad 1 [GND] of D501
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(139.6500 mm, 91.6500 mm): Arc of D501 on F.Silkscreen
+    @(140.9200 mm, 91.6500 mm): PTH pad 2 [Net-(D501-A)] of D501
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(139.6500 mm, 91.6500 mm): Arc of D501 on F.Silkscreen
+    @(138.3800 mm, 91.6500 mm): PTH pad 1 [GND] of D501
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(150.9000 mm, 49.1000 mm): Rectangle of TP203 on F.Silkscreen
+    @(149.0000 mm, 48.0000 mm): Pad 1 [3V3] of TP203 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(171.0650 mm, 48.0250 mm): Rectangle of TP205 on F.Silkscreen
+    @(172.9650 mm, 49.1250 mm): Pad 1 [12V_BAT] of TP205 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(181.6750 mm, 38.9350 mm): Rectangle of TP204 on F.Silkscreen
+    @(182.7750 mm, 37.0350 mm): Pad 1 [Net-(J201-Pin_2)] of TP204 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(207.1650 mm, 45.2250 mm): Rectangle of TP504 on F.Silkscreen
+    @(209.0650 mm, 46.3250 mm): Pad 1 [/Drivetrain/DT_ISENSE_R_RAW] of TP504 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(189.6000 mm, 79.4000 mm): Rectangle of TP202 on F.Silkscreen
+    @(191.5000 mm, 80.5000 mm): Pad 1 [5V] of TP202 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(184.5650 mm, 86.3250 mm): Rectangle of TP506 on F.Silkscreen
+    @(186.4650 mm, 87.4250 mm): Pad 1 [/Drivetrain/DT_ENB] of TP506 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(144.6750 mm, 73.9250 mm): Rectangle of TP511 on F.Silkscreen
+    @(146.5750 mm, 75.0250 mm): Pad 1 [/Drivetrain/DT_ENA] of TP511 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(144.7650 mm, 78.9250 mm): Rectangle of TP502 on F.Silkscreen
+    @(146.6650 mm, 80.0250 mm): Pad 1 [/Drivetrain/DT_SELF_TEST] of TP502 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(153.3500 mm, 100.8000 mm): Rectangle of TP514 on F.Silkscreen
+    @(155.2500 mm, 101.9000 mm): Pad 1 [/Drivetrain/DT_DEG_A] of TP514 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(169.3750 mm, 88.3750 mm): Rectangle of TP510 on F.Silkscreen
+    @(171.2750 mm, 89.4750 mm): Pad 1 [/Drivetrain/DT_IN1] of TP510 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(113.6000 mm, 164.4000 mm): Rectangle of TP301 on F.Silkscreen
+    @(115.5000 mm, 165.5000 mm): Pad 1 [/Cockpit/UDP_RX] of TP301 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(113.6000 mm, 161.4000 mm): Rectangle of TP306 on F.Silkscreen
+    @(115.5000 mm, 162.5000 mm): Pad 1 [GND] of TP306 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(113.6000 mm, 167.4000 mm): Rectangle of TP302 on F.Silkscreen
+    @(115.5000 mm, 168.5000 mm): Pad 1 [/Cockpit/CMD_TX] of TP302 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(113.6000 mm, 158.4000 mm): Rectangle of TP305 on F.Silkscreen
+    @(115.5000 mm, 159.5000 mm): Pad 1 [GND] of TP305 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(113.6000 mm, 170.4000 mm): Rectangle of TP304 on F.Silkscreen
+    @(115.5000 mm, 171.5000 mm): Pad 1 [/Cockpit/CAN_RX_A] of TP304 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(113.6000 mm, 179.4000 mm): Rectangle of TP303 on F.Silkscreen
+    @(115.5000 mm, 180.5000 mm): Pad 1 [/Cockpit/CAN_TX_B] of TP303 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(113.6000 mm, 176.4000 mm): Rectangle of TP311 on F.Silkscreen
+    @(115.5000 mm, 177.5000 mm): Pad 1 [/Cockpit/CAN_TX_A] of TP311 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(113.6000 mm, 173.4000 mm): Rectangle of TP312 on F.Silkscreen
+    @(115.5000 mm, 174.5000 mm): Pad 1 [/Cockpit/CAN_RX_B] of TP312 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(113.5500 mm, 224.6000 mm): Rectangle of TP201 on F.Silkscreen
+    @(115.4500 mm, 225.7000 mm): Pad 1 [8V] of TP201 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(132.1500 mm, 236.6000 mm): Rectangle of TP529 on F.Silkscreen
+    @(134.0500 mm, 237.7000 mm): Pad 1 [/Steering/ST_FR] of TP529 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.7500 mm, 236.9500 mm): Rectangle of TP526 on F.Silkscreen
+    @(161.6500 mm, 238.0500 mm): Pad 1 [/Steering/ST_DEG_B] of TP526 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1202 mm)
+    Rule: Pad to Silkscreen; warning
+    @(218.5000 mm, 169.5000 mm): PCB text 'PI_ERR_LED' on F.Silkscreen
+    @(215.2750 mm, 171.0000 mm): PTH pad 1 [CANH_B] of J303
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(227.8100 mm, 170.1000 mm): Rectangle of TP310 on F.Silkscreen
+    @(225.9100 mm, 169.0000 mm): Pad 1 [/Cockpit/PI_ERR_LED] of TP310 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(227.8100 mm, 174.6000 mm): Rectangle of TP307 on F.Silkscreen
+    @(225.9100 mm, 173.5000 mm): Pad 1 [/Cockpit/PI_SELF_TEST] of TP307 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(223.3500 mm, 217.2500 mm): Rectangle of TP519 on F.Silkscreen
+    @(225.2500 mm, 218.3500 mm): Pad 1 [GND] of TP519 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 169.5000 mm): Arc of D303 on F.Silkscreen
+    @(203.7300 mm, 169.5000 mm): PTH pad 1 [GND] of D303
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 169.5000 mm): Arc of D303 on F.Silkscreen
+    @(206.2700 mm, 169.5000 mm): PTH pad 2 [Net-(D303-A)] of D303
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 169.5000 mm): Arc of D303 on F.Silkscreen
+    @(203.7300 mm, 169.5000 mm): PTH pad 1 [GND] of D303
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 169.5000 mm): Arc of D303 on F.Silkscreen
+    @(206.2700 mm, 169.5000 mm): PTH pad 2 [Net-(D303-A)] of D303
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(203.4400 mm, 170.5800 mm): Segment of D303 on F.Silkscreen
+    @(203.7300 mm, 169.5000 mm): PTH pad 1 [GND] of D303
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 164.0300 mm): Arc of D302 on F.Silkscreen
+    @(206.2700 mm, 164.0300 mm): PTH pad 2 [Net-(D302-A)] of D302
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(205.0000 mm, 164.0300 mm): Arc of D302 on F.Silkscreen
+    @(203.7300 mm, 164.0300 mm): PTH pad 1 [GND] of D302
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(203.4400 mm, 165.1100 mm): Segment of D302 on F.Silkscreen
+    @(203.7300 mm, 164.0300 mm): PTH pad 1 [GND] of D302
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(203.4400 mm, 168.2640 mm): Segment of D303 on F.Silkscreen
+    @(203.7300 mm, 169.5000 mm): PTH pad 1 [GND] of D303
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(223.3500 mm, 238.8000 mm): Rectangle of TP530 on F.Silkscreen
+    @(225.2500 mm, 239.9000 mm): Pad 1 [/Steering/RELAY_TX] of TP530 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(223.3500 mm, 235.2500 mm): Rectangle of TP524 on F.Silkscreen
+    @(225.2500 mm, 236.3500 mm): Pad 1 [/Steering/ST_CAN_TX_B] of TP524 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(213.3800 mm, 237.7000 mm): Arc of D517 on F.Silkscreen
+    @(212.1100 mm, 237.7000 mm): PTH pad 2 [Net-(D517-A)] of D517
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(213.3800 mm, 237.7000 mm): Arc of D517 on F.Silkscreen
+    @(214.6500 mm, 237.7000 mm): PTH pad 1 [GND] of D517
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(213.3800 mm, 237.7000 mm): Arc of D517 on F.Silkscreen
+    @(212.1100 mm, 237.7000 mm): PTH pad 2 [Net-(D517-A)] of D517
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(213.3800 mm, 237.7000 mm): Arc of D517 on F.Silkscreen
+    @(214.6500 mm, 237.7000 mm): PTH pad 1 [GND] of D517
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(214.9400 mm, 238.9360 mm): Segment of D517 on F.Silkscreen
+    @(214.6500 mm, 237.7000 mm): PTH pad 1 [GND] of D517
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(214.9400 mm, 236.6200 mm): Segment of D517 on F.Silkscreen
+    @(214.6500 mm, 237.7000 mm): PTH pad 1 [GND] of D517
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(196.2500 mm, 236.6000 mm): Rectangle of TP528 on F.Silkscreen
+    @(198.1500 mm, 237.7000 mm): Pad 1 [/Steering/ST_FL] of TP528 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(197.7200 mm, 244.6500 mm): Arc of D516 on F.Silkscreen
+    @(198.9900 mm, 244.6500 mm): PTH pad 1 [GND] of D516
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(197.7200 mm, 244.6500 mm): Arc of D516 on F.Silkscreen
+    @(196.4500 mm, 244.6500 mm): PTH pad 2 [Net-(D516-A)] of D516
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(197.7200 mm, 244.6500 mm): Arc of D516 on F.Silkscreen
+    @(198.9900 mm, 244.6500 mm): PTH pad 1 [GND] of D516
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(197.7200 mm, 244.6500 mm): Arc of D516 on F.Silkscreen
+    @(196.4500 mm, 244.6500 mm): PTH pad 2 [Net-(D516-A)] of D516
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(199.2800 mm, 245.8860 mm): Segment of D516 on F.Silkscreen
+    @(198.9900 mm, 244.6500 mm): PTH pad 1 [GND] of D516
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(199.2800 mm, 243.5700 mm): Segment of D516 on F.Silkscreen
+    @(198.9900 mm, 244.6500 mm): PTH pad 1 [GND] of D516
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(223.3500 mm, 231.7000 mm): Rectangle of TP523 on F.Silkscreen
+    @(225.2500 mm, 232.8000 mm): Pad 1 [/Steering/ST_CAN_TX_A] of TP523 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(223.3500 mm, 228.1500 mm): Rectangle of TP522 on F.Silkscreen
+    @(225.2500 mm, 229.2500 mm): Pad 1 [/Steering/ST_CAN_RX_B] of TP522 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(223.3500 mm, 224.6000 mm): Rectangle of TP521 on F.Silkscreen
+    @(225.2500 mm, 225.7000 mm): Pad 1 [/Steering/ST_CAN_RX_A] of TP521 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(223.3500 mm, 221.0000 mm): Rectangle of TP520 on F.Silkscreen
+    @(225.2500 mm, 222.1000 mm): Pad 1 [GND] of TP520 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(190.2000 mm, 246.8000 mm): Rectangle of TP531 on F.Silkscreen
+    @(192.1000 mm, 247.9000 mm): Pad 1 [/Steering/ST_ERR] of TP531 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.0614 mm)
+    Rule: Pad to Silkscreen; warning
+    @(135.9500 mm, 258.7000 mm): Value field of R52 (40m)
+    @(133.6005 mm, 258.7000 mm): Pad 2 [/Steering/SERVO_V+] of R52 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.1200 mm, 238.6640 mm): Segment of D515 on F.Silkscreen
+    @(151.4100 mm, 239.9000 mm): PTH pad 1 [GND] of D515
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.6800 mm, 234.5000 mm): Arc of D514 on F.Silkscreen
+    @(153.9500 mm, 234.5000 mm): PTH pad 2 [Net-(D514-A)] of D514
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.6800 mm, 234.5000 mm): Arc of D514 on F.Silkscreen
+    @(151.4100 mm, 234.5000 mm): PTH pad 1 [GND] of D514
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.1200 mm, 233.2640 mm): Segment of D514 on F.Silkscreen
+    @(151.4100 mm, 234.5000 mm): PTH pad 1 [GND] of D514
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.6800 mm, 234.5000 mm): Arc of D514 on F.Silkscreen
+    @(153.9500 mm, 234.5000 mm): PTH pad 2 [Net-(D514-A)] of D514
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.6800 mm, 234.5000 mm): Arc of D514 on F.Silkscreen
+    @(151.4100 mm, 234.5000 mm): PTH pad 1 [GND] of D514
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.1200 mm, 235.5800 mm): Segment of D514 on F.Silkscreen
+    @(151.4100 mm, 234.5000 mm): PTH pad 1 [GND] of D514
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.6800 mm, 239.9000 mm): Arc of D515 on F.Silkscreen
+    @(153.9500 mm, 239.9000 mm): PTH pad 2 [Net-(D515-A)] of D515
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.6800 mm, 239.9000 mm): Arc of D515 on F.Silkscreen
+    @(151.4100 mm, 239.9000 mm): PTH pad 1 [GND] of D515
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.6800 mm, 239.9000 mm): Arc of D515 on F.Silkscreen
+    @(153.9500 mm, 239.9000 mm): PTH pad 2 [Net-(D515-A)] of D515
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(152.6800 mm, 239.9000 mm): Arc of D515 on F.Silkscreen
+    @(151.4100 mm, 239.9000 mm): PTH pad 1 [GND] of D515
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(151.1200 mm, 240.9800 mm): Segment of D515 on F.Silkscreen
+    @(151.4100 mm, 239.9000 mm): PTH pad 1 [GND] of D515
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1090 mm)
+    Rule: Pad to Silkscreen; warning
+    @(135.9500 mm, 258.7000 mm): Value field of R52 (40m)
+    @(138.2995 mm, 258.7000 mm): Pad 1 [8V] of R52 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(133.1000 mm, 268.4000 mm): Rectangle of TP507 on F.Silkscreen
+    @(135.0000 mm, 269.5000 mm): Pad 1 [/Steering/TP_SERVO_ISENSE] of TP507 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(162.4000 mm, 255.9000 mm): Rectangle of TP527 on F.Silkscreen
+    @(164.3000 mm, 257.0000 mm): Pad 1 [/Steering/SERVO_PWM] of TP527 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(159.7000 mm, 233.4000 mm): Rectangle of TP525 on F.Silkscreen
+    @(161.6000 mm, 234.5000 mm): Pad 1 [/Steering/ST_DEG_A] of TP525 on F.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(121.0500 mm, 237.7000 mm): Arc of D518 on F.Silkscreen
+    @(122.3200 mm, 237.7000 mm): PTH pad 2 [Net-(D518-A)] of D518
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(121.0500 mm, 237.7000 mm): Arc of D518 on F.Silkscreen
+    @(119.7800 mm, 237.7000 mm): PTH pad 1 [GND] of D518
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(119.4900 mm, 238.7800 mm): Segment of D518 on F.Silkscreen
+    @(119.7800 mm, 237.7000 mm): PTH pad 1 [GND] of D518
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: Pad to Silkscreen; warning
+    @(121.0500 mm, 237.7000 mm): Arc of D518 on F.Silkscreen
+    @(122.3200 mm, 237.7000 mm): PTH pad 2 [Net-(D518-A)] of D518
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(121.0500 mm, 237.7000 mm): Arc of D518 on F.Silkscreen
+    @(119.7800 mm, 237.7000 mm): PTH pad 1 [GND] of D518
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.1200 mm)
+    Rule: Pad to Silkscreen; warning
+    @(119.4900 mm, 236.4640 mm): Segment of D518 on F.Silkscreen
+    @(119.7800 mm, 237.7000 mm): PTH pad 1 [GND] of D518
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(206.2627 mm, 140.4775 mm): Segment of R307 on B.Silkscreen
+    @(205.4750 mm, 140.8050 mm): Reference field of U304
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(163.7573 mm, 42.2500 mm): Circle of U203 on B.Silkscreen
+    @(161.9491 mm, 42.7501 mm): Reference field of U203
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(193.8497 mm, 62.3909 mm): Circle of U202 on B.Silkscreen
+    @(194.3499 mm, 64.1991 mm): Reference field of U202
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(153.2409 mm, 186.0000 mm): Circle of U201 on B.Silkscreen
+    @(155.0491 mm, 185.4999 mm): Reference field of U201
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(123.6750 mm, 211.3625 mm): Reference field of U14
+    @(123.5000 mm, 211.1750 mm): Pad 1 [Net-(U14-~{RESET})] of R46 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(126.7750 mm, 204.5700 mm): Value field of C67 (100nF)
+    @(127.3650 mm, 203.9750 mm): Pad 3 [3V3] of U16 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(126.7750 mm, 204.5700 mm): Value field of C67 (100nF)
+    @(126.0950 mm, 203.9750 mm): Pad 4 [Net-(U14-RXCAN)] of U16 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(205.4750 mm, 140.8050 mm): Reference field of U304
+    @(205.6750 mm, 141.0000 mm): Pad 1 [GND] of R307 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(161.9491 mm, 42.7501 mm): Reference field of U203
+    @(161.0982 mm, 42.7501 mm): Pad 5 [Net-(U203-EN)] of U203 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(161.9491 mm, 42.7501 mm): Reference field of U203
+    @(161.0982 mm, 42.2500 mm): Pad 6 [Net-(U203-FB)] of U203 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(161.9491 mm, 42.7501 mm): Reference field of U203
+    @(161.0982 mm, 43.2503 mm): Pad 4 [unconnected-(U203-PG-Pad4)] of U203 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(161.9491 mm, 42.7501 mm): Reference field of U203
+    @(162.8000 mm, 42.2500 mm): Pad 1 [12V_BAT] of U203 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(161.9491 mm, 42.7501 mm): Reference field of U203
+    @(162.8000 mm, 43.2503 mm): Pad 3 [GND] of U203 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(161.9491 mm, 42.7501 mm): Reference field of U203
+    @(162.8000 mm, 42.7501 mm): Pad 2 [Net-(U203-SW)] of U203 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(194.3499 mm, 64.1991 mm): Reference field of U202
+    @(193.8497 mm, 65.0500 mm): Pad 6 [Net-(U202-FB)] of U202 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(194.3499 mm, 64.1991 mm): Reference field of U202
+    @(194.3499 mm, 65.0500 mm): Pad 5 [Net-(U202-EN)] of U202 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(194.3499 mm, 64.1991 mm): Reference field of U202
+    @(194.8500 mm, 65.0500 mm): Pad 4 [unconnected-(U202-PG-Pad4)] of U202 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(194.3499 mm, 64.1991 mm): Reference field of U202
+    @(194.8500 mm, 63.3482 mm): Pad 3 [GND] of U202 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(194.3499 mm, 64.1991 mm): Reference field of U202
+    @(193.8497 mm, 63.3482 mm): Pad 1 [12V_BAT] of U202 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(194.3499 mm, 64.1991 mm): Reference field of U202
+    @(194.3499 mm, 63.3482 mm): Pad 2 [Net-(U202-SW)] of U202 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.0491 mm, 185.4999 mm): Reference field of U201
+    @(155.9000 mm, 186.0000 mm): Pad 6 [Net-(U201-FB)] of U201 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.0491 mm, 185.4999 mm): Reference field of U201
+    @(155.9000 mm, 185.4999 mm): Pad 5 [Net-(U201-EN)] of U201 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.0491 mm, 185.4999 mm): Reference field of U201
+    @(155.9000 mm, 184.9997 mm): Pad 4 [unconnected-(U201-PG-Pad4)] of U201 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.0491 mm, 185.4999 mm): Reference field of U201
+    @(154.1982 mm, 184.9997 mm): Pad 3 [GND] of U201 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.0491 mm, 185.4999 mm): Reference field of U201
+    @(154.1982 mm, 186.0000 mm): Pad 1 [12V_BAT] of U201 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.0491 mm, 185.4999 mm): Reference field of U201
+    @(154.1982 mm, 185.4999 mm): Pad 2 [Net-(U201-SW)] of U201 on B.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.0400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(150.6000 mm, 197.2500 mm): Segment of L201 on B.Silkscreen
+    @(146.2000 mm, 195.8000 mm): Pad 2 [8V] of L201 on B.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.0400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(141.8000 mm, 197.2500 mm): Segment of L201 on B.Silkscreen
+    @(146.2000 mm, 195.8000 mm): Pad 2 [8V] of L201 on B.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.0400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(141.8000 mm, 184.6500 mm): Segment of L201 on B.Silkscreen
+    @(146.2000 mm, 186.1000 mm): Pad 1 [Net-(U201-SW)] of L201 on B.Cu
+[silk_overlap]: Silkscreen clearance (rule 'Pad to Silkscreen' clearance 0.1500 mm; actual 0.0400 mm)
+    Rule: Pad to Silkscreen; warning
+    @(150.6000 mm, 184.6500 mm): Segment of L201 on B.Silkscreen
+    @(146.2000 mm, 186.1000 mm): Pad 1 [Net-(U201-SW)] of L201 on B.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
