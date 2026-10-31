@@ -1831,7 +1831,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole board_only)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 3.92)
@@ -2021,6 +2021,7 @@
 		(property "Value" "5015"
 			(at 0 2.25 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "be8d605d-9b11-411d-b709-d038fa6c7d32")
 			(effects
 				(font
@@ -3639,7 +3640,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole board_only)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 3.92)
@@ -12887,7 +12888,7 @@
 			)
 		)
 		(property "Value" "CAN_B_PROBE"
-			(at 2.75 1.175 180)
+			(at 2.75 1.175 0)
 			(layer "F.SilkS")
 			(uuid "896e5e43-8513-47b5-98cd-ddca7284026b")
 			(effects
@@ -13018,7 +13019,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole board_only)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 3.92)
@@ -23545,7 +23546,7 @@
 				)
 			)
 		)
-		(property "Value" "16MHz"
+		(property "Value" "16 MHz"
 			(at 0.05 2.7 180)
 			(layer "F.SilkS")
 			(uuid "bef68ab9-fb0f-4192-946a-374af327b3d9")
@@ -30202,7 +30203,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole board_only)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -44904,6 +44905,7 @@
 		(property "Value" "5015"
 			(at 0 2.25 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a834d4b6-b4ae-4bce-9ec8-5ede82f0a3df")
 			(effects
 				(font
@@ -85261,6 +85263,19 @@
 		(layer "Edge.Cuts")
 		(uuid "a56ccfc5-1a11-4f22-904b-c2c64587b0fc")
 	)
+	(gr_text "DT_RR"
+		(at 116.6 97.95 0)
+		(layer "F.SilkS")
+		(uuid "bce508e7-0d74-4d3e-ae93-beed49386a69")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "DT_DEG_B"
 		(at 150.85 108.1 0)
 		(layer "F.SilkS")
@@ -85291,6 +85306,19 @@
 		(at 164.5 49.65 0)
 		(layer "F.SilkS")
 		(uuid "cf9406dc-dfe0-4b4d-b38c-292bdb2c457a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "DT_RL"
+		(at 201.65 93.6 0)
+		(layer "F.SilkS")
+		(uuid "5416d2d1-9c7e-4b22-9e90-499ff51d6d4a")
 		(effects
 			(font
 				(size 1 1)
