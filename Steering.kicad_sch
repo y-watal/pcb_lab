@@ -4183,6 +4183,505 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SWT0210-045026GSA:SWT0210-045026GSA_REVA"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "S"
+				(at -7.62 5.842 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "SWT0210-045026GSA_REVA"
+				(at -7.62 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "SWT0210-045026GSA_REVA:SW_SWT0210-045026GSA_REVA"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "4.5 x 4.5mm Surface Mount Tactile Switch"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Global Connector Technology"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "4.6mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "CREATOR" "ASHISH"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/SWT0210-045026GSA/Global+Connector+Technology/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "VERIFIER" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/SWT0210-045026GSA/Global+Connector+Technology/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "SWT0210-045026GSA"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Global Connector Technology"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SNAPEDA_PN" "SWT0210-045026GSA"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "SWT0210-045026GSA_REVA_0_0"
+				(rectangle
+					(start -7.62 -5.08)
+					(end 7.62 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 2.54) (xy -7.62 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -5.08 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -3.048 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -2.54) (xy -7.62 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 1.5875) (xy 0 1.5875)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 0)
+					(radius 0.508)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.5875) (xy 0 3.4925)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.5875) (xy 2.54 1.5875)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 0)
+					(radius 0.508)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 3.048 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 7.62 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -10.16 2.54 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -2.54 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 2.54 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 -2.54 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Switch:SW_DIP_x01"
 			(pin_names
 				(offset 0)
@@ -4591,170 +5090,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Switch:SW_Push"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "SW"
-				(at 1.27 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "SW_Push"
-				(at 0 -1.524 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Push button switch, generic, two pins"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "switch normally-open pushbutton push-button"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "SW_Push_0_1"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5524,12 +5859,6 @@
 		(uuid "266853e3-c04c-47b2-9f88-8b4ed4b16b8b")
 	)
 	(junction
-		(at 55.88 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "340cd31b-1e7c-49f2-9f4e-eb52d1cfbf16")
-	)
-	(junction
 		(at 111.76 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5582,6 +5911,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d14bed0-385f-4ef8-a096-98a3e9c0b361")
+	)
+	(junction
+		(at 53.34 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "83ca5d17-f049-4c35-8e99-762ae057471b")
 	)
 	(junction
 		(at 311.15 36.83)
@@ -5638,12 +5973,6 @@
 		(uuid "ba2cf790-fb4a-487a-86a1-f7bf2c8d789b")
 	)
 	(junction
-		(at 52.07 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c02d4154-4449-4cad-8ee2-2b9ba081100e")
-	)
-	(junction
 		(at 113.03 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5666,6 +5995,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d44e4e85-3da3-45d9-b31d-d20f5a4ddf67")
+	)
+	(junction
+		(at 55.88 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d47c45ac-c7d9-4e6e-b740-7f43f3c86546")
 	)
 	(junction
 		(at 111.76 207.01)
@@ -5702,12 +6037,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f30f0b2e-bb5e-49ed-93a4-c55b02c1a812")
-	)
-	(junction
-		(at 48.26 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb57c4cb-e2a9-4c79-9966-e256fb9a4c68")
 	)
 	(no_connect
 		(at 92.71 133.35)
@@ -6059,7 +6388,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 156.21) (xy 52.07 153.67)
+			(xy 53.34 158.75) (xy 53.34 156.21)
 		)
 		(stroke
 			(width 0)
@@ -6269,16 +6598,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 153.67) (xy 48.26 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "294ff34c-15dc-48b2-9186-17efd9676019")
-	)
-	(wire
-		(pts
 			(xy 97.79 52.07) (xy 97.79 59.69)
 		)
 		(stroke
@@ -6299,7 +6618,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 128.27) (xy 92.71 128.27)
+			(xy 77.47 128.27) (xy 92.71 128.27)
 		)
 		(stroke
 			(width 0)
@@ -6436,16 +6755,6 @@
 			(type default)
 		)
 		(uuid "3d0e8b12-cffa-4c74-b4f1-6806cf817a6a")
-	)
-	(wire
-		(pts
-			(xy 52.07 153.67) (xy 55.88 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f1e8dd4-a8c3-4dbf-92ce-c3e0ece3e375")
 	)
 	(wire
 		(pts
@@ -6659,16 +6968,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 151.13) (xy 55.88 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "514ad6bb-2965-49df-aa26-f0ee2774ee6f")
-	)
-	(wire
-		(pts
 			(xy 31.75 120.65) (xy 29.21 120.65)
 		)
 		(stroke
@@ -6859,7 +7158,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 128.27) (xy 69.85 142.24)
+			(xy 77.47 128.27) (xy 77.47 135.89)
 		)
 		(stroke
 			(width 0)
@@ -7039,16 +7338,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 143.51) (xy 55.88 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b95728f-2f6b-47a2-8dad-290e63eb7524")
-	)
-	(wire
-		(pts
 			(xy 29.21 222.25) (xy 41.91 222.25)
 		)
 		(stroke
@@ -7056,6 +7345,16 @@
 			(type default)
 		)
 		(uuid "7c8edcd4-752a-4366-b3e9-9e649e43c6b1")
+	)
+	(wire
+		(pts
+			(xy 53.34 156.21) (xy 55.88 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cc0c601-2f44-4751-b5f9-4f7cae8e7d0e")
 	)
 	(wire
 		(pts
@@ -7086,6 +7385,16 @@
 			(type default)
 		)
 		(uuid "7ffff98e-6497-46b1-ae28-a5c9b1818a46")
+	)
+	(wire
+		(pts
+			(xy 53.34 156.21) (xy 50.8 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82268a3e-d463-4bd7-8d0b-18035e3c9506")
 	)
 	(wire
 		(pts
@@ -7186,6 +7495,16 @@
 			(type default)
 		)
 		(uuid "8e46c33d-5fba-4afc-98bf-683aa519fa62")
+	)
+	(wire
+		(pts
+			(xy 55.88 135.89) (xy 50.8 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e596418-d3e5-49c9-a0bf-7673c0e9f9df")
 	)
 	(wire
 		(pts
@@ -7559,6 +7878,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 135.89) (xy 77.47 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bab57803-bb6d-4ef0-b547-26e4576e97ff")
+	)
+	(wire
+		(pts
 			(xy 275.59 184.15) (xy 275.59 187.96)
 		)
 		(stroke
@@ -7596,16 +7925,6 @@
 			(type default)
 		)
 		(uuid "c6393509-9268-4309-8620-7d77216a8d9b")
-	)
-	(wire
-		(pts
-			(xy 48.26 142.24) (xy 55.88 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6e25ad7-e462-4dc5-8fbd-04ee8c3ad55b")
 	)
 	(wire
 		(pts
@@ -7819,16 +8138,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 142.24) (xy 48.26 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e64cea33-7687-4e57-a491-19c2d811af01")
-	)
-	(wire
-		(pts
 			(xy 356.87 50.8) (xy 356.87 46.99)
 		)
 		(stroke
@@ -7856,16 +8165,6 @@
 			(type default)
 		)
 		(uuid "e899d35c-b340-4110-ac0a-6f9a2e49a678")
-	)
-	(wire
-		(pts
-			(xy 69.85 142.24) (xy 55.88 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9782551-caf2-42d9-b6ec-3e3d20f48a77")
 	)
 	(wire
 		(pts
@@ -9588,7 +9887,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 57.15 273.05 0)
 			(hide yes)
 			(show_name no)
@@ -9694,151 +9993,6 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
 					(reference "TP507")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 55.88 147.32 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0e2aaeec-5e71-40f8-ad86-daa0a79eee90")
-		(property "Reference" "C541"
-			(at 61.976 147.066 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100nF"
-			(at 59.436 147.066 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 56.8452 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 55.88 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "KEMET"
-			(at 55.88 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "C0603C104K3RACAUTO"
-			(at 55.88 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" "C172738"
-			(at 55.88 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Category" "Extended"
-			(at 55.88 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "DigiKey"
-			(at 55.88 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Assembly" "Hand-solder"
-			(at 55.88 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "da160206-848a-4a56-b587-eceb6fdba838")
-		)
-		(pin "1"
-			(uuid "a17b9178-9dfd-4f25-95d0-da988d4e6983")
-		)
-		(instances
-			(project "pcb_lab"
-				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
-					(reference "C541")
 					(unit 1)
 				)
 			)
@@ -12069,7 +12223,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -12365,7 +12519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -12706,154 +12860,6 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
 					(reference "#PWR0135")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 48.26 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "373fb782-27dc-43b0-95d4-afcfeb32d004")
-		(property "Reference" "R523"
-			(at 50.8 137.1599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 50.8 139.6999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 46.482 138.43 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 48.26 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay Dale"
-			(at 48.26 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "CRCW060310K0FKEA"
-			(at 48.26 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" "C844918"
-			(at 48.26 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Category" "Extended"
-			(at 48.26 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "Lab stock"
-			(at 48.26 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Assembly" "Hand-solder"
-			(at 48.26 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "02e9f3e7-d777-4191-8d11-9cb83c801724")
-		)
-		(pin "2"
-			(uuid "25efabaa-d9f1-44e3-b294-eff85af63ca0")
-		)
-		(instances
-			(project "pcb_lab"
-				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
-					(reference "R523")
 					(unit 1)
 				)
 			)
@@ -13379,84 +13385,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+BATT")
-		(at 48.26 134.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "407489dc-0889-4773-aac3-30e7945e40e9")
-		(property "Reference" "#PWR0576"
-			(at 48.26 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "3V3"
-			(at 48.26 129.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 48.26 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f5237e7b-8183-4840-9ce4-29be79c7b8c1")
-		)
-		(instances
-			(project "pcb_lab"
-				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
-					(reference "#PWR0576")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 298.45 36.83 270)
 		(unit 1)
@@ -13874,7 +13802,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 229.87 0)
 			(hide yes)
 			(show_name no)
@@ -15269,7 +15197,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -15567,7 +15495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -15868,7 +15796,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -16307,7 +16235,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -18619,7 +18547,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -19650,7 +19578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -20028,7 +19956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -20964,6 +20892,161 @@
 		)
 	)
 	(symbol
+		(lib_id "SWT0210-045026GSA:SWT0210-045026GSA_REVA")
+		(at 53.34 146.05 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a48af441-d1f5-431e-843a-30033f1d9ba4")
+		(property "Reference" "S302"
+			(at 59.69 144.7799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ST_SELF_TEST"
+			(at 34.544 146.05 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SWT0210-045026GSA:SW_SWT0210-045026GSA_REVA"
+			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "4.5 x 4.5mm Surface Mount Tactile Switch"
+			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Manufacturer" "GCT"
+			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SWT0210-045026GSA"
+			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Source" "DigiKey"
+			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" "Hand-Solder"
+			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Category" ""
+			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "109b6f8b-e238-4878-83a3-a532024cc902")
+		)
+		(pin "1"
+			(uuid "155d4873-f073-488a-ad8c-90d06f2d6ce2")
+		)
+		(pin "4"
+			(uuid "e1fd8d62-d184-44d7-b43b-c1c5066ff535")
+		)
+		(pin "2"
+			(uuid "8b425bfe-58b1-480f-bc64-534a456847f8")
+		)
+		(instances
+			(project "pcb_lab"
+				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
+					(reference "S302")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 284.48 172.72 90)
 		(unit 1)
@@ -21143,7 +21226,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -22016,7 +22099,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -22207,7 +22290,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 52.07 156.21 0)
+		(at 53.34 158.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22218,7 +22301,7 @@
 		(fields_autoplaced yes)
 		(uuid "bcc20bf8-86b0-49c7-a64f-e336a16adfb3")
 		(property "Reference" "#PWR0577"
-			(at 52.07 162.56 0)
+			(at 53.34 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22229,7 +22312,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 52.07 161.29 0)
+			(at 53.34 163.83 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22239,7 +22322,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 52.07 156.21 0)
+			(at 53.34 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22250,7 +22333,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 156.21 0)
+			(at 53.34 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22261,7 +22344,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 52.07 156.21 0)
+			(at 53.34 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23637,7 +23720,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 45.72 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -24572,153 +24655,6 @@
 			(project "pcb_lab"
 				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
 					(reference "C85")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 48.26 148.59 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ec0c1f63-0a0f-4fa2-87e8-1622a4064836")
-		(property "Reference" "SW506"
-			(at 41.148 150.876 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 43.688 150.876 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
-			(at 43.18 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 48.26 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Omron"
-			(at 48.26 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "B3F-1000"
-			(at 48.26 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "DigiKey"
-			(at 48.26 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Assembly" "Hand-solder"
-			(at 48.26 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" "C93157"
-			(at 48.26 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Category" "Extended"
-			(at 48.26 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e5c0ca0e-8fee-4f5f-b776-1c5184741298")
-		)
-		(pin "1"
-			(uuid "a8a1ab0d-1d5c-4f77-b636-c410cb796535")
-		)
-		(instances
-			(project "pcb_lab"
-				(path "/4b3900cd-4caa-4607-9ae2-b7ba504fedd7/23497302-7072-48b6-a971-34b323d3f5ac"
-					(reference "SW506")
 					(unit 1)
 				)
 			)

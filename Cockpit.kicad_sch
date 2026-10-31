@@ -8924,7 +8924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 59.69 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -9291,7 +9291,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 105.41 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -9434,7 +9434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 59.69 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -10189,7 +10189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 59.69 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11078,7 +11078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 92.71 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -11300,7 +11300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 59.69 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12459,7 +12459,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 77.47 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13402,7 +13402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 95.25 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -13855,7 +13855,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 113.03 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -14242,7 +14242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 105.41 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -14759,7 +14759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 105.41 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -16168,7 +16168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Keystone_5015_Micro_Mini"
+		(property "Footprint" "Keystone_5015:TestPoint_Keystone_5015_Micro_Mini"
 			(at 113.03 115.57 0)
 			(hide yes)
 			(show_name no)
